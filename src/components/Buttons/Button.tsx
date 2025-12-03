@@ -1,9 +1,13 @@
 "use client";
 import React, { ReactNode, useState } from "react";
 
+interface Icon {
+  icon: ReactNode;
+  iconPosition: "left" | "right";
+}
+
 interface Props {
-  icon?: ReactNode;
-  iconPosition?: "left" | "right";
+  icon: Icon;
   children: ReactNode;
   bgColor: string;
   hoverColor: string;
@@ -11,12 +15,12 @@ interface Props {
   size: "fit" | "fill";
   rounded: "normal" | "full";
   visualEffects: "all" | "hover" | "active" | "none";
+  onClick: () => void;
 }
 
 /**
  * Renvoie un bouton customisable
- * @param icon NON-OBLIGATOIRE -> Permet d'ajouter une icone à notre bouton
- * @param iconPosition NON-OBLIGATOIRE -> Permet de spécifier la position de l'icone si fournie
+ * @param icon NON-OBLIGATOIRE -> Permet d'ajouter une icone et sa position dans la carte
  * @param children -> Le texte du bouton
  * @param bgColor -> La couleur de fond du bouton
  * @param hoverColor NON-OBLIGATOIRE - Si non utilisé mettre "" -> Spécifie la couleur du background lors du survol
@@ -33,6 +37,7 @@ const Button = ({ ...props }: Props) => {
     props.visualEffects === "all" || props.visualEffects === "hover";
   const activeActive =
     props.visualEffects === "all" || props.visualEffects === "active";
+
   return (
     <button
       className={`flex justify-center items-center py-2 px-4 cursor-pointer gap-2 rounded-2xl ${
@@ -42,10 +47,11 @@ const Button = ({ ...props }: Props) => {
       style={{ backgroundColor: bgColor, color: props.textColor }}
       onMouseEnter={() => hoverActive && setBgColor(props.hoverColor)}
       onMouseLeave={() => setBgColor(props.bgColor)}
+      onClick={() => props.onClick()}
     >
-      {props.iconPosition === "left" && props.icon}
+      {props.icon.iconPosition === "left" && props.icon.icon}
       {props.children}
-      {props.iconPosition === "right" && props.icon}
+      {props.icon.iconPosition === "right" && props.icon.icon}
     </button>
   );
 };
