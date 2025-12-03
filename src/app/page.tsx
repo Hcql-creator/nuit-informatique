@@ -1,3 +1,3 @@
 export default function Home() {
-  return <></>;
+  return <div className="size-full justify-center items-center"></div>;
 }
