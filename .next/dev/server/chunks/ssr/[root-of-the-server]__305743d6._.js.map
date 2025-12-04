@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///Users/temet/Desktop/nuit-informatique/src/app/page.tsx"],"sourcesContent":["export default function Home() {\n  return <div className=\"size-full justify-center items-center\"></div>;\n}\n"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBAAO,8OAAC;QAAI,WAAU;;;;;;AACxB"}}]
+}

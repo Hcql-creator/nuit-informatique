@@ -1,0 +1,9 @@
+[00:00:00.752] Server  LOG      ✓ Ready in 555ms
+[00:00:09.185] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:38:09.818] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:38:09.951] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:38:10.175] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:38:13.451] Server  ERROR    ⨯ Error: The default export is not a React Component in "/chatbruti/page"
+[01:38:13.556] Server  ERROR    ⨯ Error: The default export is not a React Component in "/chatbruti/page"
+[01:38:14.033] Browser ERROR   uncaughtError: Error: The default export is not a React Component in "/chatbruti/page"
+[01:38:17.479] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
