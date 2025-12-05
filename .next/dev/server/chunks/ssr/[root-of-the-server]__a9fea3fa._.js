@@ -72,7 +72,7 @@ var __TURBOPACK__imported__module__$5b$next$5d2f$internal$2f$font$2f$google$2f$g
 ;
 ;
 const metadata = {
-    title: "CHANGE WEBSITE NAME",
+    title: "NUIT Informatique - Les 8 Bits",
     description: "CHANGE WEBSITE DESCRIPTION"
 };
 function RootLayout({ children }) {
