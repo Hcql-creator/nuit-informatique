@@ -1,23 +1,48 @@
 globalThis.__BUILD_MANIFEST = {
   "pages": {
-    "/_app": []
+    "/_app": [
+      "static/chunks/fcf44_next_dist_compiled_4d00d933._.js",
+      "static/chunks/fcf44_next_dist_shared_lib_0cb9525e._.js",
+      "static/chunks/fcf44_next_dist_client_9400906c._.js",
+      "static/chunks/fcf44_next_dist_1987fa1a._.js",
+      "static/chunks/fcf44_next_app_d002fb35.js",
+      "static/chunks/[next]_entry_page-loader_ts_327167ef._.js",
+      "static/chunks/fcf44_react-dom_8c368d69._.js",
+      "static/chunks/fcf44_88d79184._.js",
+      "static/chunks/[root-of-the-server]__e25f08c2._.js",
+      "static/chunks/nuit-informatique_pages__app_2da965e7._.js",
+      "static/chunks/turbopack-nuit-informatique_pages__app_bc024ff7._.js"
+    ],
+    "/_error": [
+      "static/chunks/fcf44_next_dist_compiled_4d00d933._.js",
+      "static/chunks/fcf44_next_dist_shared_lib_e397450e._.js",
+      "static/chunks/fcf44_next_dist_client_9400906c._.js",
+      "static/chunks/fcf44_next_dist_01aab85d._.js",
+      "static/chunks/fcf44_next_error_3139b02b.js",
+      "static/chunks/[next]_entry_page-loader_ts_07d99cc3._.js",
+      "static/chunks/fcf44_react-dom_8c368d69._.js",
+      "static/chunks/fcf44_88d79184._.js",
+      "static/chunks/[root-of-the-server]__9108de7e._.js",
+      "static/chunks/nuit-informatique_pages__error_2da965e7._.js",
+      "static/chunks/turbopack-nuit-informatique_pages__error_de34e06a._.js"
+    ]
   },
   "devFiles": [],
   "polyfillFiles": [
-    "static/chunks/node_modules_next_dist_build_polyfills_polyfill-nomodule.js"
+    "static/chunks/fcf44_next_dist_build_polyfills_polyfill-nomodule.js"
   ],
   "lowPriorityFiles": [],
   "rootMainFiles": [
-    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_bae88007._.js",
-    "static/chunks/node_modules_next_dist_compiled_react-dom_1e674e59._.js",
-    "static/chunks/node_modules_next_dist_compiled_react-server-dom-turbopack_9212ccad._.js",
-    "static/chunks/node_modules_next_dist_compiled_next-devtools_index_1dd7fb59.js",
-    "static/chunks/node_modules_next_dist_compiled_a0e4c7b4._.js",
-    "static/chunks/node_modules_next_dist_client_aaee43fe._.js",
-    "static/chunks/node_modules_next_dist_7a8122d0._.js",
-    "static/chunks/node_modules_@swc_helpers_cjs_d80fb378._.js",
-    "static/chunks/_a0ff3932._.js",
-    "static/chunks/turbopack-_45210fd5._.js"
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_661cb731._.js",
+    "static/chunks/fcf44_next_dist_compiled_react-dom_9b0d5784._.js",
+    "static/chunks/fcf44_next_dist_compiled_react-server-dom-turbopack_27706b6a._.js",
+    "static/chunks/fcf44_next_dist_compiled_next-devtools_index_30e7995f.js",
+    "static/chunks/fcf44_next_dist_compiled_a2e82f5e._.js",
+    "static/chunks/fcf44_next_dist_client_5e2910f2._.js",
+    "static/chunks/fcf44_next_dist_a5f8d950._.js",
+    "static/chunks/fcf44_@swc_helpers_cjs_2caf0e42._.js",
+    "static/chunks/nuit-informatique_a0ff3932._.js",
+    "static/chunks/turbopack-nuit-informatique_ba8f8793._.js"
   ]
 };
 globalThis.__BUILD_MANIFEST.lowPriorityFiles = [

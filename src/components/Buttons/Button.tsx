@@ -40,7 +40,7 @@ const Button = ({ ...props }: Props) => {
 
   return (
     <button
-      className={`flex justify-center items-center py-2 px-4 cursor-pointer gap-2 rounded-2xl ${
+      className={` kill-zone flex justify-center items-center py-2 px-4 cursor-pointer gap-2 rounded-2xl ${
         props.size === "fit" ? "w-fit" : "w-full"
       } ${props.rounded === "full" ? "rounded-full" : "rounded-xl"}
        ${activeActive && "active:scale-97"} transition-all duration-250`}

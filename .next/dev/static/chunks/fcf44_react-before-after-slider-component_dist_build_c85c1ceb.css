@@ -1,0 +1,47 @@
+/* [project]/nuit-informatique/node_modules/react-before-after-slider-component/dist/build.css [app-client] (css) */
+.before-after-slider {
+  width: 100%;
+  position: relative;
+}
+
+.before-after-slider__first-photo-container, .before-after-slider__second-photo-container {
+  width: 100%;
+  overflow: hidden;
+}
+
+.before-after-slider__second-photo-container {
+  position: absolute;
+  top: 0;
+}
+
+.before-after-slider img {
+  -webkit-user-select: none;
+  user-select: none;
+  width: 100%;
+  max-width: none;
+}
+
+.before-after-slider__delimiter {
+  justify-content: center;
+  align-items: center;
+  width: 5px;
+  height: 100%;
+  display: flex;
+  position: absolute;
+  top: 0;
+}
+
+.before-after-slider__delimiter-icon {
+  cursor: pointer;
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+}
+
+.before-after-slider__delimiter-img {
+  cursor: pointer;
+  -webkit-user-select: none;
+  user-select: none;
+}
+
+/*# sourceMappingURL=fcf44_react-before-after-slider-component_dist_build_c85c1ceb.css.map*/

@@ -18,7 +18,7 @@ const IconButton = ({ ...props }: Props) => {
     props.visualEffects === "all" || props.visualEffects === "active";
   return (
     <button
-      className={`flex justify-center items-center rounded-full cursor-pointer ${
+      className={`kill-zone flex justify-center items-center rounded-full cursor-pointer ${
         activeActive && "active:scale-97"
       } transition-all duration-250`}
       style={{ padding: props.padding, backgroundColor: bgColor }}
