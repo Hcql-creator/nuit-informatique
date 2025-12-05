@@ -114,10 +114,10 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$nuit$2d$informatique$2f$node
 ;
 const PresentationCard = ({ ...props })=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$nuit$2d$informatique$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: "flex flex-col py-3 px-4 rounded-xl shadow-lg border-2 gap-3 border-gray-200 size-fit bg-[#4b56cb]",
+        className: "kill-zone flex flex-col py-3 px-4 rounded-xl shadow-lg border-2 gap-3 border-gray-200 size-fit bg-[#4b56cb]",
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$nuit$2d$informatique$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: "flex justify-center items-center ",
+                className: "kill-zone flex justify-center items-center ",
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$nuit$2d$informatique$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: "bg-gray-400 rounded-full p-4",
                     children: props.icon
@@ -667,7 +667,7 @@ function Snake() {
             const distance = Math.hypot(newHead.x - food.x, newHead.y - food.y);
             if (distance < SEGMENT_SIZE) {
                 setFood(randomPosition());
-                setScore((prev)=>prev + 0.5);
+                setScore((prev)=>prev + 1);
             } else {
                 newSnake.pop();
             }
@@ -1093,7 +1093,7 @@ function Home() {
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$nuit$2d$informatique$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                         role: "button",
                                         onClick: ()=>router.push("https://nird.forge.apps.education.fr/"),
-                                        className: "tap-highlight-transparent cursor-pointer hover:bg-blue-400 w-fit no-underline active:opacity-disabled group box-border appearance-none select-none subpixel-antialiased tap-highlight-transparent data-[pressed=true]:scale-[0.97] outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover group flex transform items-center justify-center whitespace-nowrap rounded-md border border-white bg-brand-700 px-8 font-medium text-white hover:ring-2 hover:ring-brand-700 hover:ring-offset-2 focus:outline-none focus:ring-2 focus:ring-offset-2 gap-2 overflow-clip capitalize relative z-10 h-14 text-base shadow-lg transition-all duration-300 hover:shadow-xl",
+                                        className: "kill-zone tap-highlight-transparent cursor-pointer hover:bg-blue-400 w-fit no-underline active:opacity-disabled group box-border appearance-none select-none subpixel-antialiased tap-highlight-transparent data-[pressed=true]:scale-[0.97] outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover group flex transform items-center justify-center whitespace-nowrap rounded-md border border-white bg-brand-700 px-8 font-medium text-white hover:ring-2 hover:ring-brand-700 hover:ring-offset-2 focus:outline-none focus:ring-2 focus:ring-offset-2 gap-2 overflow-clip capitalize relative z-10 h-14 text-base shadow-lg transition-all duration-300 hover:shadow-xl",
                                         children: [
                                             "Découvrir le NIRD ",
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$nuit$2d$informatique$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$nuit$2d$informatique$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$arrow$2d$big$2d$right$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__ArrowBigRight$3e$__["ArrowBigRight"], {}, void 0, false, {
@@ -1305,7 +1305,7 @@ function Home() {
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$nuit$2d$informatique$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                         role: "button",
                         onClick: ()=>router.push("https://nird.forge.apps.education.fr/"),
-                        className: "tap-highlight-transparent cursor-pointer hover:bg-blue-400 w-fit no-underline active:opacity-disabled group box-border appearance-none select-none subpixel-antialiased tap-highlight-transparent data-[pressed=true]:scale-[0.97] outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover group flex transform items-center justify-center whitespace-nowrap rounded-md border border-white bg-brand-700 px-8 font-medium text-white hover:ring-2 hover:ring-brand-700 hover:ring-offset-2 focus:outline-none focus:ring-2 focus:ring-offset-2 gap-2 overflow-clip capitalize relative z-10 h-14 text-base shadow-lg transition-all duration-300 hover:shadow-xl",
+                        className: "kill-zone tap-highlight-transparent cursor-pointer hover:bg-blue-400 w-fit no-underline active:opacity-disabled group box-border appearance-none select-none subpixel-antialiased tap-highlight-transparent data-[pressed=true]:scale-[0.97] outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover group flex transform items-center justify-center whitespace-nowrap rounded-md border border-white bg-brand-700 px-8 font-medium text-white hover:ring-2 hover:ring-brand-700 hover:ring-offset-2 focus:outline-none focus:ring-2 focus:ring-offset-2 gap-2 overflow-clip capitalize relative z-10 h-14 text-base shadow-lg transition-all duration-300 hover:shadow-xl",
                         children: [
                             "Plus d'Informations ",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$nuit$2d$informatique$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$nuit$2d$informatique$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$arrow$2d$big$2d$right$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__$3c$export__default__as__ArrowBigRight$3e$__["ArrowBigRight"], {}, void 0, false, {

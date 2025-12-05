@@ -135,7 +135,7 @@ export default function Snake() {
       const distance = Math.hypot(newHead.x - food.x, newHead.y - food.y);
       if (distance < SEGMENT_SIZE) {
         setFood(randomPosition());
-        setScore((prev) => prev + 0.5);
+        setScore((prev) => prev + 1);
       } else {
         newSnake.pop();
       }
