@@ -1,9 +1,1351 @@
-[00:00:00.752] Server  LOG      ✓ Ready in 555ms
-[00:00:09.185] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:38:09.818] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:38:09.951] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:38:10.175] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:38:13.451] Server  ERROR    ⨯ Error: The default export is not a React Component in "/chatbruti/page"
-[01:38:13.556] Server  ERROR    ⨯ Error: The default export is not a React Component in "/chatbruti/page"
-[01:38:14.033] Browser ERROR   uncaughtError: Error: The default export is not a React Component in "/chatbruti/page"
-[01:38:17.479] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:01.312] Server  LOG      ✓ Ready in 924ms
+[00:00:03.522] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:03.615] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:16.938] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:38.182] Server  LOG      ✓ Compiled in 45ms
+[00:00:42.421] Server  LOG      ✓ Compiled in 40ms
+[00:00:42.526] Browser ERROR   ./src/app/page.tsx:10:3
+Parsing ecmascript source code failed
+   8 |     {/* <Carte /> */}
+   9 |     <
+> 10 |   </div>;
+     |   ^
+  11 | }
+  12 |
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:00:42.526] Browser ERROR   ./src/app/page.tsx:10:4
+Parsing ecmascript source code failed
+   8 |     {/* <Carte /> */}
+   9 |     <
+> 10 |   </div>;
+     |    ^^^^^^
+  11 | }
+  12 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:00:42.870] Browser ERROR   ./src/app/page.tsx:10:3
+Parsing ecmascript source code failed
+   8 |     {/* <Carte /> */}
+   9 |     <
+> 10 |   </div>;
+     |   ^
+  11 | }
+  12 |
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:00:42.870] Browser ERROR   ./src/app/page.tsx:10:4
+Parsing ecmascript source code failed
+   8 |     {/* <Carte /> */}
+   9 |     <
+> 10 |   </div>;
+     |    ^^^^^^
+  11 | }
+  12 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:00:42.871] Browser ERROR   ./src/app/page.tsx:10:3
+Parsing ecmascript source code failed
+   8 |     {/* <Carte /> */}
+   9 |     <
+> 10 |   </div>;
+     |   ^
+  11 | }
+  12 |
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:00:42.871] Browser ERROR   ./src/app/page.tsx:10:4
+Parsing ecmascript source code failed
+   8 |     {/* <Carte /> */}
+   9 |     <
+> 10 |   </div>;
+     |    ^^^^^^
+  11 | }
+  12 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:00:44.873] Browser ERROR   ./src/app/page.tsx:10:3
+Parsing ecmascript source code failed
+   8 |     {/* <Carte /> */}
+   9 |     <sele
+> 10 |   </div>;
+     |   ^
+  11 | }
+  12 |
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:00:44.873] Browser ERROR   ./src/app/page.tsx:10:4
+Parsing ecmascript source code failed
+   8 |     {/* <Carte /> */}
+   9 |     <sele
+> 10 |   </div>;
+     |    ^^^^^^
+  11 | }
+  12 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:00:44.874] Browser ERROR   ./src/app/page.tsx:10:3
+Parsing ecmascript source code failed
+   8 |     {/* <Carte /> */}
+   9 |     <sele
+> 10 |   </div>;
+     |   ^
+  11 | }
+  12 |
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:00:44.874] Browser ERROR   ./src/app/page.tsx:10:4
+Parsing ecmascript source code failed
+   8 |     {/* <Carte /> */}
+   9 |     <sele
+> 10 |   </div>;
+     |    ^^^^^^
+  11 | }
+  12 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:00:44.874] Browser ERROR   ./src/app/page.tsx:10:3
+Parsing ecmascript source code failed
+   8 |     {/* <Carte /> */}
+   9 |     <sele
+> 10 |   </div>;
+     |   ^
+  11 | }
+  12 |
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:00:44.874] Browser ERROR   ./src/app/page.tsx:10:4
+Parsing ecmascript source code failed
+   8 |     {/* <Carte /> */}
+   9 |     <sele
+> 10 |   </div>;
+     |    ^^^^^^
+  11 | }
+  12 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:00:46.653] Browser ERROR   ./src/app/page.tsx:11:3
+Parsing ecmascript source code failed
+   9 |     {/* <Carte /> */}
+  10 |     <SelectorN1
+> 11 |   </div>;
+     |   ^
+  12 | }
+  13 |
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:00:46.653] Browser ERROR   ./src/app/page.tsx:11:4
+Parsing ecmascript source code failed
+   9 |     {/* <Carte /> */}
+  10 |     <SelectorN1
+> 11 |   </div>;
+     |    ^^^^^^
+  12 | }
+  13 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:00:46.871] Browser ERROR   ./src/app/page.tsx:11:3
+Parsing ecmascript source code failed
+   9 |     {/* <Carte /> */}
+  10 |     <SelectorN1
+> 11 |   </div>;
+     |   ^
+  12 | }
+  13 |
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:00:46.871] Browser ERROR   ./src/app/page.tsx:11:4
+Parsing ecmascript source code failed
+   9 |     {/* <Carte /> */}
+  10 |     <SelectorN1
+> 11 |   </div>;
+     |    ^^^^^^
+  12 | }
+  13 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:00:46.871] Browser ERROR   ./src/app/page.tsx:11:3
+Parsing ecmascript source code failed
+   9 |     {/* <Carte /> */}
+  10 |     <SelectorN1
+> 11 |   </div>;
+     |   ^
+  12 | }
+  13 |
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:00:46.871] Browser ERROR   ./src/app/page.tsx:11:4
+Parsing ecmascript source code failed
+   9 |     {/* <Carte /> */}
+  10 |     <SelectorN1
+> 11 |   </div>;
+     |    ^^^^^^
+  12 | }
+  13 |
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:01:09.835] Server  LOG      ✓ Compiled in 28ms
+[00:01:09.943] Browser ERROR   ./src/components/Selector/Selector n°1.tsx:5:9
+Parsing ecmascript source code failed
+  3 | function SelectorN1() {
+  4 |   return <div>
+> 5 |     /div>;
+    |         ^
+  6 | }
+  7 |
+  8 | export default SelectorN1;
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./src/components/Selector/Selector n°1.tsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/Selector/Selector n°1.tsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:01:09.943] Browser ERROR   ./src/components/Selector/Selector n°1.tsx:6:1
+Parsing ecmascript source code failed
+  4 |   return <div>
+  5 |     /div>;
+> 6 | }
+    | ^
+  7 |
+  8 | export default SelectorN1;
+  9 |
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+Import traces:
+  Client Component Browser:
+    ./src/components/Selector/Selector n°1.tsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/Selector/Selector n°1.tsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:01:10.879] Browser ERROR   ./src/components/Selector/Selector n°1.tsx:5:9
+Parsing ecmascript source code failed
+  3 | function SelectorN1() {
+  4 |   return <div>
+> 5 |     /div>;
+    |         ^
+  6 | }
+  7 |
+  8 | export default SelectorN1;
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./src/components/Selector/Selector n°1.tsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/Selector/Selector n°1.tsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:01:10.879] Browser ERROR   ./src/components/Selector/Selector n°1.tsx:6:1
+Parsing ecmascript source code failed
+  4 |   return <div>
+  5 |     /div>;
+> 6 | }
+    | ^
+  7 |
+  8 | export default SelectorN1;
+  9 |
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+Import traces:
+  Client Component Browser:
+    ./src/components/Selector/Selector n°1.tsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/Selector/Selector n°1.tsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:01:10.880] Browser ERROR   ./src/components/Selector/Selector n°1.tsx:5:9
+Parsing ecmascript source code failed
+  3 | function SelectorN1() {
+  4 |   return <div>
+> 5 |     /div>;
+    |         ^
+  6 | }
+  7 |
+  8 | export default SelectorN1;
+
+Unexpected token. Did you mean `{'>'}` or `&gt;`?
+
+Import traces:
+  Client Component Browser:
+    ./src/components/Selector/Selector n°1.tsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/Selector/Selector n°1.tsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:01:10.880] Browser ERROR   ./src/components/Selector/Selector n°1.tsx:6:1
+Parsing ecmascript source code failed
+  4 |   return <div>
+  5 |     /div>;
+> 6 | }
+    | ^
+  7 |
+  8 | export default SelectorN1;
+  9 |
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+Import traces:
+  Client Component Browser:
+    ./src/components/Selector/Selector n°1.tsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/Selector/Selector n°1.tsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:01:19.467] Server  LOG      ✓ Compiled in 28ms
+[00:01:19.556] Browser ERROR   Received `%s` for a non-boolean attribute `%s`.
+
+If you want to write it to the DOM, pass a string instead: %s="%s" or %s={value.toString()}. true che che true che
+[00:01:19.878] Browser ERROR   Received `%s` for a non-boolean attribute `%s`.
+
+If you want to write it to the DOM, pass a string instead: %s="%s" or %s={value.toString()}. true che che true che
+[00:01:19.878] Browser ERROR   Received `%s` for a non-boolean attribute `%s`.
+
+If you want to write it to the DOM, pass a string instead: %s="%s" or %s={value.toString()}. true che che true che
+[00:01:21.418] Server  LOG      ✓ Compiled in 23ms
+[00:01:24.213] Server  LOG      ✓ Compiled in 29ms
+[00:01:28.254] Server  LOG      ✓ Compiled in 28ms
+[00:01:36.084] Server  LOG      ✓ Compiled in 28ms
+[00:01:38.726] Server  LOG      ✓ Compiled in 33ms
+[00:01:41.275] Server  LOG      ✓ Compiled in 42ms
+[00:01:45.724] Server  LOG      ✓ Compiled in 27ms
+[00:01:47.391] Server  LOG      ✓ Compiled in 25ms
+[00:01:49.512] Server  LOG      ✓ Compiled in 63ms
+[00:02:18.254] Server  LOG      ✓ Compiled in 30ms
+[00:02:25.477] Server  LOG      ✓ Compiled in 38ms
+[00:02:39.304] Server  LOG      ✓ Compiled in 35ms
+[00:02:41.846] Server  LOG      ✓ Compiled in 21ms
+[00:02:45.445] Server  LOG      ✓ Compiled in 32ms
+[00:02:56.794] Server  LOG      ✓ Compiled in 32ms
+[00:03:01.721] Server  LOG      ✓ Compiled in 27ms
+[00:03:12.880] Server  LOG      ✓ Compiled in 24ms
+[00:03:17.452] Server  LOG      ✓ Compiled in 20ms
+[00:03:27.560] Server  LOG      ✓ Compiled in 35ms
+[00:03:34.112] Server  LOG      ✓ Compiled in 27ms
+[00:03:35.779] Server  LOG      ✓ Compiled in 28ms
+[00:03:37.241] Server  LOG      ✓ Compiled in 22ms
+[00:03:46.943] Server  LOG      ✓ Compiled in 20ms
+[00:03:49.938] Server  LOG      ✓ Compiled in 23ms
+[00:03:53.882] Server  LOG      ✓ Compiled in 21ms
+[00:03:55.098] Server  LOG      ✓ Compiled in 31ms
+[00:03:57.262] Server  LOG      ✓ Compiled in 24ms
+[00:03:58.381] Server  LOG      ✓ Compiled in 22ms
+[00:04:00.581] Server  LOG      ✓ Compiled in 29ms
+[00:04:01.797] Server  LOG      ✓ Compiled in 51ms
+[00:04:03.593] Server  LOG      ✓ Compiled in 27ms
+[00:04:05.302] Server  LOG      ✓ Compiled in 21ms
+[00:04:07.205] Server  LOG      ✓ Compiled in 28ms
+[00:04:18.587] Server  LOG      ✓ Compiled in 23ms
+[00:04:21.529] Server  LOG      ✓ Compiled in 20ms
+[00:04:24.600] Server  LOG      ✓ Compiled in 22ms
+[00:04:27.136] Server  LOG      ✓ Compiled in 21ms
+[00:04:34.708] Server  LOG      ✓ Compiled in 40ms
+[00:04:39.633] Server  LOG      ✓ Compiled in 26ms
+[00:04:43.188] Server  LOG      ✓ Compiled in 25ms
+[00:04:46.991] Server  LOG      ✓ Compiled in 56ms
+[00:05:01.424] Server  LOG      ✓ Compiled in 26ms
+[00:05:02.950] Server  LOG      ✓ Compiled in 37ms
+[00:05:09.258] Server  LOG      ✓ Compiled in 35ms
+[00:05:11.129] Server  LOG      ✓ Compiled in 30ms
+[00:05:14.182] Server  LOG      ✓ Compiled in 36ms
+[00:05:16.595] Server  LOG      ✓ Compiled in 26ms
+[00:05:20.789] Server  LOG      ✓ Compiled in 40ms
+[00:05:26.527] Server  LOG      ✓ Compiled in 42ms
+[00:05:28.178] Server  LOG      ✓ Compiled in 22ms
+[00:05:31.620] Server  LOG      ✓ Compiled in 29ms
+[00:06:29.982] Server  LOG      ✓ Compiled in 24ms
+[00:06:36.011] Server  LOG      ✓ Compiled in 23ms
+[00:06:39.129] Server  LOG      ✓ Compiled in 32ms
+[00:06:41.309] Server  LOG      ✓ Compiled in 27ms
+[00:06:42.899] Server  LOG      ✓ Compiled in 27ms
+[00:06:45.258] Server  LOG      ✓ Compiled in 32ms
+[00:06:47.098] Server  LOG      ✓ Compiled in 28ms
+[00:06:49.407] Server  LOG      ✓ Compiled in 19ms
+[00:06:51.038] Server  LOG      ✓ Compiled in 25ms
+[00:06:53.990] Server  LOG      ✓ Compiled in 30ms
+[00:06:57.091] Server  LOG      ✓ Compiled in 43ms
+[00:06:59.258] Server  LOG      ✓ Compiled in 26ms
+[00:07:03.293] Server  LOG      ✓ Compiled in 19ms
+[00:07:08.058] Server  LOG      ✓ Compiled in 17ms
+[00:07:11.963] Server  LOG      ✓ Compiled in 32ms
+[00:07:31.117] Server  LOG      ✓ Compiled in 28ms
+[00:07:35.541] Server  LOG      ✓ Compiled in 40ms
+[00:07:38.811] Server  LOG      ✓ Compiled in 25ms
+[00:07:41.257] Server  LOG      ✓ Compiled in 21ms
+[00:07:45.010] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:45.502] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:49.687] Server  LOG      ✓ Compiled in 18ms
+[00:07:58.579] Server  LOG      ✓ Compiled in 29ms
+[00:08:06.387] Server  LOG      ✓ Compiled in 22ms
+[00:08:07.806] Server  LOG      ✓ Compiled in 34ms
+[00:08:08.974] Server  LOG      ✓ Compiled in 38ms
+[00:08:29.000] Server  LOG      ✓ Compiled in 22ms
+[00:08:34.342] Server  LOG      ✓ Compiled in 32ms
+[00:08:36.819] Server  LOG      ✓ Compiled in 23ms
+[00:08:43.772] Server  LOG      ✓ Compiled in 36ms
+[00:08:45.740] Server  LOG      ✓ Compiled in 22ms
+[00:08:48.703] Server  LOG      ✓ Compiled in 30ms
+[00:08:50.919] Server  LOG      ✓ Compiled in 28ms
+[00:08:52.325] Server  LOG      ✓ Compiled in 27ms
+[00:08:53.601] Server  LOG      ✓ Compiled in 26ms
+[00:09:00.451] Server  LOG      ✓ Compiled in 33ms
+[00:09:11.894] Server  LOG      ✓ Compiled in 26ms
+[00:09:14.901] Server  LOG      ✓ Compiled in 32ms
+[00:09:16.094] Server  LOG      ✓ Compiled in 30ms
+[00:09:22.287] Server  LOG      ✓ Compiled in 42ms
+[00:09:26.622] Server  LOG      ✓ Compiled in 29ms
+[00:09:26.732] Browser ERROR   ./src/components/Selector/Selector n°1.tsx:7:56
+Parsing ecmascript source code failed
+   5 |     <div className="flex h-full w-full border-2 border-white bg-black justify-center items-center">
+   6 |       <div className="flex w-[500px] h-[500px] bg-white p-2">
+>  7 |         <button className="w-[15px] h-[15px] bg-gray-3"00 cursor-pointer border-2 border-black"></button>
+     |                                                        ^^
+   8 |       </div>
+   9 |     </div>
+  10 |   );
+
+Legacy octal escape is not permitted in strict mode
+
+Import traces:
+  Client Component Browser:
+    ./src/components/Selector/Selector n°1.tsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/Selector/Selector n°1.tsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:09:26.732] Browser ERROR   ./src/components/Selector/Selector n°1.tsx:7:56
+Parsing ecmascript source code failed
+   5 |     <div className="flex h-full w-full border-2 border-white bg-black justify-center items-center">
+   6 |       <div className="flex w-[500px] h-[500px] bg-white p-2">
+>  7 |         <button className="w-[15px] h-[15px] bg-gray-3"00 cursor-pointer border-2 border-black"></button>
+     |                                                        ^^
+   8 |       </div>
+   9 |     </div>
+  10 |   );
+
+Legacy octal literals are not available when targeting ECMAScript 5 and higher
+
+Import traces:
+  Client Component Browser:
+    ./src/components/Selector/Selector n°1.tsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/Selector/Selector n°1.tsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:09:26.874] Browser ERROR   ./src/components/Selector/Selector n°1.tsx:7:56
+Parsing ecmascript source code failed
+   5 |     <div className="flex h-full w-full border-2 border-white bg-black justify-center items-center">
+   6 |       <div className="flex w-[500px] h-[500px] bg-white p-2">
+>  7 |         <button className="w-[15px] h-[15px] bg-gray-3"00 cursor-pointer border-2 border-black"></button>
+     |                                                        ^^
+   8 |       </div>
+   9 |     </div>
+  10 |   );
+
+Legacy octal escape is not permitted in strict mode
+
+Import traces:
+  Client Component Browser:
+    ./src/components/Selector/Selector n°1.tsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/Selector/Selector n°1.tsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:09:26.874] Browser ERROR   ./src/components/Selector/Selector n°1.tsx:7:56
+Parsing ecmascript source code failed
+   5 |     <div className="flex h-full w-full border-2 border-white bg-black justify-center items-center">
+   6 |       <div className="flex w-[500px] h-[500px] bg-white p-2">
+>  7 |         <button className="w-[15px] h-[15px] bg-gray-3"00 cursor-pointer border-2 border-black"></button>
+     |                                                        ^^
+   8 |       </div>
+   9 |     </div>
+  10 |   );
+
+Legacy octal literals are not available when targeting ECMAScript 5 and higher
+
+Import traces:
+  Client Component Browser:
+    ./src/components/Selector/Selector n°1.tsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/Selector/Selector n°1.tsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:09:26.875] Browser ERROR   ./src/components/Selector/Selector n°1.tsx:7:56
+Parsing ecmascript source code failed
+   5 |     <div className="flex h-full w-full border-2 border-white bg-black justify-center items-center">
+   6 |       <div className="flex w-[500px] h-[500px] bg-white p-2">
+>  7 |         <button className="w-[15px] h-[15px] bg-gray-3"00 cursor-pointer border-2 border-black"></button>
+     |                                                        ^^
+   8 |       </div>
+   9 |     </div>
+  10 |   );
+
+Legacy octal escape is not permitted in strict mode
+
+Import traces:
+  Client Component Browser:
+    ./src/components/Selector/Selector n°1.tsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/Selector/Selector n°1.tsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:09:26.875] Browser ERROR   ./src/components/Selector/Selector n°1.tsx:7:56
+Parsing ecmascript source code failed
+   5 |     <div className="flex h-full w-full border-2 border-white bg-black justify-center items-center">
+   6 |       <div className="flex w-[500px] h-[500px] bg-white p-2">
+>  7 |         <button className="w-[15px] h-[15px] bg-gray-3"00 cursor-pointer border-2 border-black"></button>
+     |                                                        ^^
+   8 |       </div>
+   9 |     </div>
+  10 |   );
+
+Legacy octal literals are not available when targeting ECMAScript 5 and higher
+
+Import traces:
+  Client Component Browser:
+    ./src/components/Selector/Selector n°1.tsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/Selector/Selector n°1.tsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:09:44.969] Server  LOG      ✓ Compiled in 28ms
+[00:09:48.966] Server  LOG      ✓ Compiled in 35ms
+[00:09:54.880] Server  LOG      ✓ Compiled in 26ms
+[00:09:58.734] Server  LOG      ✓ Compiled in 30ms
+[00:10:01.966] Server  LOG      ✓ Compiled in 26ms
+[00:10:03.649] Server  LOG      ✓ Compiled in 27ms
+[00:10:05.106] Server  LOG      ✓ Compiled in 41ms
+[00:10:06.415] Server  LOG      ✓ Compiled in 28ms
+[00:10:08.142] Server  LOG      ✓ Compiled in 24ms
+[00:10:11.343] Server  LOG      ✓ Compiled in 54ms
+[00:10:15.458] Server  LOG      ✓ Compiled in 17ms
+[00:10:18.991] Server  LOG      ✓ Compiled in 23ms
+[00:10:21.483] Server  LOG      ✓ Compiled in 41ms
+[00:10:24.531] Server  LOG      ✓ Compiled in 34ms
+[00:10:29.583] Server  LOG      ✓ Compiled in 33ms
+[00:10:33.227] Server  LOG      ✓ Compiled in 36ms
+[00:10:34.296] Server  LOG      ✓ Compiled in 30ms
+[00:10:37.460] Server  LOG      ✓ Compiled in 35ms
+[00:10:41.193] Server  LOG      ✓ Compiled in 26ms
+[00:10:48.251] Server  LOG      ✓ Compiled in 31ms
+[00:11:05.113] Server  LOG      ✓ Compiled in 44ms
+[00:13:35.431] Server  LOG      ✓ Compiled in 35ms
+[00:58:12.349] Server  LOG      ✓ Compiled in 13ms
+[00:58:13.610] Server  LOG      ✓ Compiled in 12ms
+[00:59:26.607] Server  LOG      ✓ Compiled in 44ms
+[01:00:07.910] Server  LOG      ✓ Compiled in 29ms
+[01:00:10.019] Server  LOG      ✓ Compiled in 49ms
+[01:01:27.732] Server  LOG      ✓ Compiled in 79ms
+[01:02:15.607] Server  LOG      ✓ Compiled in 42ms
+[01:02:20.618] Server  LOG      ✓ Compiled in 35ms
+[01:02:26.048] Server  LOG      ✓ Compiled in 27ms
+[01:04:30.840] Server  LOG      ✓ Compiled in 120ms
+[01:05:04.080] Server  LOG      ✓ Compiled in 25ms
+[01:08:14.448] Server  LOG      ✓ Compiled in 49ms
+[01:09:04.510] Server  LOG      ✓ Compiled in 26ms
+[01:09:05.571] Server  LOG      ✓ Compiled in 27ms
+[01:09:20.909] Server  LOG      ✓ Compiled in 27ms
+[01:10:06.363] Server  LOG      ✓ Compiled in 33ms
+[01:10:11.897] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:10:12.039] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <LoadingBoundary name="/" loading={null}>
+      <HTTPAccessFallbackBoundary notFound={<SegmentViewNode>} forbidden={undefined} unauthorized={undefined}>
+        <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<SegmentViewNode>} forbidden={undefined} ...>
+          <RedirectBoundary>
+            <RedirectErrorBoundary router={{...}}>
+              <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} segmentPath={[...]} ...>
+                <SegmentViewNode type="page" pagePath="page.tsx">
+                  <SegmentTrieNode>
+                  <ClientPageRoot Component={function Home} serverProvidedParams={{...}}>
+                    <Home params={Promise} searchParams={Promise}>
+                      <div className="size-full ...">
+                        <SelectorN100>
+                          <div className="flex h-ful...">
+                            <div className="grid grid-...">
+                              <button
+                                className="w-[40px] h-[40px] bg-gray-300 cursor-pointer border-2 border-black flex jus..."
+                                onClick={function onClick}
+                              >
++                               40
+-                               100
+                              ...
+                            ...
+                ...
+              ...
+
+[01:10:46.385] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:10:46.502] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <LoadingBoundary name="/" loading={null}>
+      <HTTPAccessFallbackBoundary notFound={<SegmentViewNode>} forbidden={undefined} unauthorized={undefined}>
+        <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<SegmentViewNode>} forbidden={undefined} ...>
+          <RedirectBoundary>
+            <RedirectErrorBoundary router={{...}}>
+              <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} segmentPath={[...]} ...>
+                <SegmentViewNode type="page" pagePath="page.tsx">
+                  <SegmentTrieNode>
+                  <ClientPageRoot Component={function Home} serverProvidedParams={{...}}>
+                    <Home params={Promise} searchParams={Promise}>
+                      <div className="size-full ...">
+                        <SelectorN100>
+                          <div className="flex h-ful...">
+                            <div className="grid grid-...">
+                              <button
+                                className="w-[40px] h-[40px] bg-gray-300 cursor-pointer border-2 border-black flex jus..."
+                                onClick={function onClick}
+                              >
++                               25
+-                               39
+                              ...
+                            ...
+                ...
+              ...
+
+[01:11:29.196] Server  LOG      ✓ Compiled in 29ms
+[01:11:31.219] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:11:31.340] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <LoadingBoundary name="/" loading={null}>
+      <HTTPAccessFallbackBoundary notFound={<SegmentViewNode>} forbidden={undefined} unauthorized={undefined}>
+        <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<SegmentViewNode>} forbidden={undefined} ...>
+          <RedirectBoundary>
+            <RedirectErrorBoundary router={{...}}>
+              <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} segmentPath={[...]} ...>
+                <SegmentViewNode type="page" pagePath="page.tsx">
+                  <SegmentTrieNode>
+                  <ClientPageRoot Component={function Home} serverProvidedParams={{...}}>
+                    <Home params={Promise} searchParams={Promise}>
+                      <div className="size-full ...">
+                        <SelectorN100>
+                          <div className="flex h-ful...">
+                            <div className="grid grid-...">
+                              <button
+                                className="w-[40px] h-[40px] bg-gray-300 cursor-pointer border-2 border-black flex jus..."
+                                onClick={function onClick}
+                              >
++                               32
+-                               54
+                              ...
+                            ...
+                ...
+              ...
+
+[01:12:25.704] Server  LOG      ✓ Compiled in 30ms
+[01:12:28.857] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:12:28.995] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <LoadingBoundary name="/" loading={null}>
+      <HTTPAccessFallbackBoundary notFound={<SegmentViewNode>} forbidden={undefined} unauthorized={undefined}>
+        <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<SegmentViewNode>} forbidden={undefined} ...>
+          <RedirectBoundary>
+            <RedirectErrorBoundary router={{...}}>
+              <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} segmentPath={[...]} ...>
+                <SegmentViewNode type="page" pagePath="page.tsx">
+                  <SegmentTrieNode>
+                  <ClientPageRoot Component={function Home} serverProvidedParams={{...}}>
+                    <Home params={Promise} searchParams={Promise}>
+                      <div className="size-full ...">
+                        <SelectorN100>
+                          <div className="flex h-ful...">
+                            <div className="grid grid-...">
+                              <button
+                                className="w-[40px] h-[40px] bg-gray-300 cursor-pointer border-2 border-black flex jus..."
+                                onClick={function onClick}
+                              >
++                               95
+-                               54
+                              ...
+                            ...
+                ...
+              ...
+
+[01:12:51.373] Server  LOG      ✓ Compiled in 38ms
+[01:12:53.203] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:12:53.326] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <LoadingBoundary name="/" loading={null}>
+      <HTTPAccessFallbackBoundary notFound={<SegmentViewNode>} forbidden={undefined} unauthorized={undefined}>
+        <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<SegmentViewNode>} forbidden={undefined} ...>
+          <RedirectBoundary>
+            <RedirectErrorBoundary router={{...}}>
+              <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} segmentPath={[...]} ...>
+                <SegmentViewNode type="page" pagePath="page.tsx">
+                  <SegmentTrieNode>
+                  <ClientPageRoot Component={function Home} serverProvidedParams={{...}}>
+                    <Home params={Promise} searchParams={Promise}>
+                      <div className="size-full ...">
+                        <SelectorN100>
+                          <div className="flex h-ful...">
+                            <div className="grid grid-...">
+                              <button
+                                className="w-[40px] h-[40px] bg-gray-300 cursor-pointer border-2 border-black flex jus..."
+                                onClick={function onClick}
+                              >
++                               78
+-                               77
+                              ...
+                            ...
+                ...
+              ...
+
+[01:13:57.811] Server  LOG      ✓ Compiled in 49ms
+[01:14:04.728] Server  LOG      ✓ Compiled in 41ms
+[01:14:23.291] Server  LOG      ✓ Compiled in 38ms
+[01:14:32.791] Server  LOG      ✓ Compiled in 33ms
+[01:14:59.937] Server  LOG      ✓ Compiled in 24ms
+[01:15:00.823] Server  LOG      ✓ Compiled in 26ms
+[01:15:03.254] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:15:03.383] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <LoadingBoundary name="/" loading={null}>
+      <HTTPAccessFallbackBoundary notFound={<SegmentViewNode>} forbidden={undefined} unauthorized={undefined}>
+        <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<SegmentViewNode>} forbidden={undefined} ...>
+          <RedirectBoundary>
+            <RedirectErrorBoundary router={{...}}>
+              <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} segmentPath={[...]} ...>
+                <SegmentViewNode type="page" pagePath="page.tsx">
+                  <SegmentTrieNode>
+                  <ClientPageRoot Component={function Home} serverProvidedParams={{...}}>
+                    <Home params={Promise} searchParams={Promise}>
+                      <div className="size-full ...">
+                        <SelectorN100>
+                          <div className="flex h-ful...">
+                            <div className="grid grid-...">
+                              <button
+                                className="w-[40px] h-[40px] bg-gray-300 cursor-pointer border-2 border-black flex jus..."
+                                onClick={function onClick}
+                              >
++                               74
+-                               22
+                              ...
+                            ...
+                ...
+              ...
+
+[01:15:52.043] Server  LOG      ✓ Compiled in 27ms
+[01:15:58.081] Server  LOG      ✓ Compiled in 29ms
+[01:16:08.018] Server  LOG      ✓ Compiled in 19ms
+[01:16:24.403] Server  LOG      ✓ Compiled in 25ms
+[01:16:31.942] Server  LOG      ✓ Compiled in 38ms
+[01:16:36.364] Server  LOG      ✓ Compiled in 34ms
+[01:16:36.475] Browser ERROR   ./src/components/Selector/Selector n°1.tsx:83:1
+Parsing ecmascript source code failed
+  81 | }
+  82 |
+> 83 | export default SelectorN100;
+     | ^^^^^^
+  84 |
+
+'import', and 'export' cannot be used outside of module code
+
+Import traces:
+  Client Component Browser:
+    ./src/components/Selector/Selector n°1.tsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/Selector/Selector n°1.tsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[01:16:55.147] Server  LOG      ✓ Compiled in 21ms
+[01:16:57.415] Server  LOG      ✓ Compiled in 27ms
+[01:16:59.683] Server  LOG      ✓ Compiled in 33ms
+[01:17:10.187] Server  LOG      ✓ Compiled in 31ms
+[01:17:26.526] Server  LOG      ✓ Compiled in 29ms
+[01:17:26.629] Browser ERROR   ./src/components/Selector/Selector n°1.tsx:65:11
+Parsing ecmascript source code failed
+  63 |           }}
+  64 |           onClick={}
+> 65 |           onMouseEnter={handleMuteHover} // moves on hover
+     |           ^^^^^^^^^^^^
+  66 |         >
+  67 |           Mute
+  68 |         </button>
+
+Expected '</', got 'onMouseEnter'
+
+Import traces:
+  Client Component Browser:
+    ./src/components/Selector/Selector n°1.tsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/Selector/Selector n°1.tsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[01:17:33.131] Browser ERROR   ./src/components/Selector/Selector n°1.tsx:63:11
+Parsing ecmascript source code failed
+  61 |           }}
+  62 |           onClick={}
+> 63 |           onMouseEnter={handleMuteHover} // moves on hover
+     |           ^^^^^^^^^^^^
+  64 |         >
+  65 |           Mute
+  66 |         </button>
+
+Expected '</', got 'onMouseEnter'
+
+Import traces:
+  Client Component Browser:
+    ./src/components/Selector/Selector n°1.tsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/Selector/Selector n°1.tsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[01:17:35.821] Browser ERROR   ./src/components/Selector/Selector n°1.tsx:62:11
+Parsing ecmascript source code failed
+  60 |           }}
+  61 |           onClick={}
+> 62 |           onMouseEnter={handleMuteHover} // moves on hover
+     |           ^^^^^^^^^^^^
+  63 |         >
+  64 |           Mute
+  65 |         </button>
+
+Expected '</', got 'onMouseEnter'
+
+Import traces:
+  Client Component Browser:
+    ./src/components/Selector/Selector n°1.tsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/Selector/Selector n°1.tsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[01:17:43.792] Server  LOG      ✓ Compiled in 45ms
+[01:17:43.894] Browser ERROR   ./src/components/Selector/Selector n°1.tsx:35:9
+Parsing ecmascript source code failed
+  33 |   };
+  34 |
+> 35 |   const hanlde
+     |         ^^^^^^
+  36 |
+  37 |   return (
+  38 |     <div className="flex h-full w-full justify-center items-center bg-black flex-col">
+
+'const' declarations must be initialized
+
+Import traces:
+  Client Component Browser:
+    ./src/components/Selector/Selector n°1.tsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/Selector/Selector n°1.tsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[01:17:53.660] Server  LOG      ✓ Compiled in 37ms
+[01:17:53.763] Browser ERROR   ./src/components/Selector/Selector n°1.tsx:68:11
+Parsing ecmascript source code failed
+  66 |           }}
+  67 |           onClick={}
+> 68 |           onMouseEnter={handleMuteHover} // moves on hover
+     |           ^^^^^^^^^^^^
+  69 |         >
+  70 |           Mute
+  71 |         </button>
+
+Expected '</', got 'onMouseEnter'
+
+Import traces:
+  Client Component Browser:
+    ./src/components/Selector/Selector n°1.tsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/Selector/Selector n°1.tsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[01:17:59.504] Server  LOG      ✓ Compiled in 43ms
+[01:17:59.627] Browser ERROR   uncaughtError: ReferenceError: hadn is not defined
+[01:18:00.661] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:18:00.800] Server  LOG      ✓ Compiled in 50ms
+[01:18:01.030] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:18:01.191] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <LoadingBoundary name="/" loading={null}>
+      <HTTPAccessFallbackBoundary notFound={<SegmentViewNode>} forbidden={undefined} unauthorized={undefined}>
+        <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<SegmentViewNode>} forbidden={undefined} ...>
+          <RedirectBoundary>
+            <RedirectErrorBoundary router={{...}}>
+              <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} segmentPath={[...]} ...>
+                <SegmentViewNode type="page" pagePath="page.tsx">
+                  <SegmentTrieNode>
+                  <ClientPageRoot Component={function Home} serverProvidedParams={{...}}>
+                    <Home params={Promise} searchParams={Promise}>
+                      <div className="size-full ...">
+                        <SelectorN100>
+                          <div className="flex h-ful...">
+                            <div className="grid grid-...">
+                              <button
+                                className="w-[40px] h-[40px] bg-gray-300 cursor-pointer border-2 border-black flex jus..."
+                                onClick={function onClick}
+                              >
++                               54
+-                               58
+                              ...
+                            ...
+                ...
+              ...
+
+[01:18:03.153] Server  LOG      ✓ Compiled in 28ms
+[01:18:03.200] Browser ERROR   uncaughtError: ReferenceError: handle is not defined
+[01:18:04.408] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:18:04.531] Server  LOG      ✓ Compiled in 43ms
+[01:18:04.658] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:18:04.802] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <LoadingBoundary name="/" loading={null}>
+      <HTTPAccessFallbackBoundary notFound={<SegmentViewNode>} forbidden={undefined} unauthorized={undefined}>
+        <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<SegmentViewNode>} forbidden={undefined} ...>
+          <RedirectBoundary>
+            <RedirectErrorBoundary router={{...}}>
+              <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} segmentPath={[...]} ...>
+                <SegmentViewNode type="page" pagePath="page.tsx">
+                  <SegmentTrieNode>
+                  <ClientPageRoot Component={function Home} serverProvidedParams={{...}}>
+                    <Home params={Promise} searchParams={Promise}>
+                      <div className="size-full ...">
+                        <SelectorN100>
+                          <div className="flex h-ful...">
+                            <div className="grid grid-...">
+                              <button
+                                className="w-[40px] h-[40px] bg-gray-300 cursor-pointer border-2 border-black flex jus..."
+                                onClick={function onClick}
+                              >
++                               28
+-                               87
+                              ...
+                            ...
+                ...
+              ...
+
+[01:18:06.362] Server  LOG      ✓ Compiled in 29ms
+[01:18:06.424] Browser ERROR   uncaughtError: ReferenceError: handleMute is not defined
+[01:18:07.514] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:18:07.676] Server  LOG      ✓ Compiled in 24ms
+[01:18:07.781] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:18:07.905] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <LoadingBoundary name="/" loading={null}>
+      <HTTPAccessFallbackBoundary notFound={<SegmentViewNode>} forbidden={undefined} unauthorized={undefined}>
+        <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<SegmentViewNode>} forbidden={undefined} ...>
+          <RedirectBoundary>
+            <RedirectErrorBoundary router={{...}}>
+              <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} segmentPath={[...]} ...>
+                <SegmentViewNode type="page" pagePath="page.tsx">
+                  <SegmentTrieNode>
+                  <ClientPageRoot Component={function Home} serverProvidedParams={{...}}>
+                    <Home params={Promise} searchParams={Promise}>
+                      <div className="size-full ...">
+                        <SelectorN100>
+                          <div className="flex h-ful...">
+                            <div className="grid grid-...">
+                              <button
+                                className="w-[40px] h-[40px] bg-gray-300 cursor-pointer border-2 border-black flex jus..."
+                                onClick={function onClick}
+                              >
++                               45
+-                               29
+                              ...
+                            ...
+                ...
+              ...
+
+[01:18:32.496] Server  LOG      ✓ Compiled in 29ms
+[01:18:34.295] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:18:34.419] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <LoadingBoundary name="/" loading={null}>
+      <HTTPAccessFallbackBoundary notFound={<SegmentViewNode>} forbidden={undefined} unauthorized={undefined}>
+        <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<SegmentViewNode>} forbidden={undefined} ...>
+          <RedirectBoundary>
+            <RedirectErrorBoundary router={{...}}>
+              <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} segmentPath={[...]} ...>
+                <SegmentViewNode type="page" pagePath="page.tsx">
+                  <SegmentTrieNode>
+                  <ClientPageRoot Component={function Home} serverProvidedParams={{...}}>
+                    <Home params={Promise} searchParams={Promise}>
+                      <div className="size-full ...">
+                        <SelectorN100>
+                          <div className="flex h-ful...">
+                            <div className="grid grid-...">
+                              <button
+                                className="w-[40px] h-[40px] bg-gray-300 cursor-pointer border-2 border-black flex jus..."
+                                onClick={function onClick}
+                              >
++                               80
+-                               67
+                              ...
+                            ...
+                ...
+              ...
+
+[01:18:56.537] Server  LOG      ✓ Compiled in 27ms
+[01:18:57.850] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:18:57.965] Browser ERROR   uncaughtError: Error: Hydration failed because the server rendered text didn't match the client. As a result this tree will be regenerated on the client. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+https://react.dev/link/hydration-mismatch
+
+  ...
+    <LoadingBoundary name="/" loading={null}>
+      <HTTPAccessFallbackBoundary notFound={<SegmentViewNode>} forbidden={undefined} unauthorized={undefined}>
+        <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<SegmentViewNode>} forbidden={undefined} ...>
+          <RedirectBoundary>
+            <RedirectErrorBoundary router={{...}}>
+              <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} segmentPath={[...]} ...>
+                <SegmentViewNode type="page" pagePath="page.tsx">
+                  <SegmentTrieNode>
+                  <ClientPageRoot Component={function Home} serverProvidedParams={{...}}>
+                    <Home params={Promise} searchParams={Promise}>
+                      <div className="size-full ...">
+                        <SelectorN100>
+                          <div className="flex h-ful...">
+                            <div className="grid grid-...">
+                              <button
+                                className="w-[40px] h-[40px] bg-gray-300 cursor-pointer border-2 border-black flex jus..."
+                                onClick={function onClick}
+                              >
++                               75
+-                               29
+                              ...
+                            ...
+                ...
+              ...
+
+[01:20:49.973] Server  LOG      ✓ Compiled in 57ms
+[01:21:50.046] Server  LOG      ✓ Compiled in 26ms
+[01:23:07.734] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
