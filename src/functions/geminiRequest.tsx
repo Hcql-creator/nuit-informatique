@@ -3,7 +3,7 @@ import { customPrompt } from "../../config.json";
 
 const geminiRequest = async (prompt: string) => {
   const ai = new GoogleGenAI({
-    apiKey: "AIzaSyBReVdS-BCWfBu3N9Y3_KDFiRZxfEWo7X8",
+    apiKey: process.env.GEMINI_API_KEY,
   });
   // PROMPT
   let finalPrompt =
