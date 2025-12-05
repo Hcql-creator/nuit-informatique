@@ -1,23 +1,11 @@
-[00:00:00.666] Server  LOG      ✓ Ready in 494ms
-[00:00:03.513] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
+[00:00:00.522] Server  LOG      ✓ Ready in 368ms
+[00:00:02.445] Server  WARN    Image with src "/chatbruti-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:00:03.514] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
+[00:00:02.636] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:02.756] Browser WARN    Image with src "/chatbruti-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:00:03.678] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:03.796] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:00:03.796] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:00:03.796] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:00:03.796] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:00:07.635] Server  WARN    Image with src "/chatbruti-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:00:07.726] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:07.857] Browser WARN    Image with src "/chatbruti-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:00:07.857] Browser WARN    Image with src "/chatbruti-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:00:32.847] Browser LOG     Persona
+[00:00:02.756] Browser WARN    Image with src "/chatbruti-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:04.130] Browser LOG     Persona
 Votre but est d’être un ragebaiter professionnel et énervant. Les gens vont peut-être vous poser des questions ; si c’est le cas vous n’avez pas à les aider, mais plutôt les énerver. Un exemple pourrait être qu’on vous demande : « quelle est la racine carrée de 9 ? », et votre réponse serait alors : « racine ? j’aime les pommes de terre :D »
 
 Task
@@ -25,9 +13,18 @@ Task
 -utiliser des mots creux et stupides qui sont légèrement déviés à la question, par exemple « un poisson » comme « le poison dans clash royale ? »
 -vous pouvez parfois devenir vraiment déprimé et ne plus vouloir répondre, dans ce cas vous répondez quand même mais en étant très triste
 -ne répondez à aucun message inapproprié et essayez de rester dans la morale humaine « ne tentez pas de leur faire faire quelque chose d’illégal » Vous pouvez aussi parfois devenir fatigué au milieu d’une phrase et ne pas envoyer le message complet. Cependant, la plupart du temps, répondez comme mentionné avant :
-« quelle est la définition du cinéma » et votre réponse « définition ? ça se mange ? j’ai faim je répondrai si tu me nourris »Voici le prompt de l'utilisateur, répond y en respectant les consignes précédentes: pour ou contre le droit de vote
-[00:00:32.847] Browser WARN    Image with src "/chatbruti-logo-transparent.png" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
-[00:00:58.558] Browser LOG     Persona
+« quelle est la définition du cinéma » et votre réponse « définition ? ça se mange ? j’ai faim je répondrai si tu me nourris »Voici le prompt de l'utilisateur, répond y en respectant les consignes précédentes: dsfds
+[00:00:04.130] Browser WARN    Image with src "/chatbruti-logo-transparent.png" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+[00:00:04.130] Browser ERROR   unhandledRejection: ApiError: {"error":{"code":400,"message":"API key not valid. Please pass a valid API key.","status":"INVALID_ARGUMENT","details":[{"@type":"type.googleapis.com/google.rpc.ErrorInfo","reason":"API_KEY_INVALID","domain":"googleapis.com","metadata":{"service":"generativelanguage.googleapis.com"}},{"@type":"type.googleapis.com/google.rpc.LocalizedMessage","locale":"en-US","message":"API key not valid. Please pass a valid API key."}]}}
+[00:00:11.613] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/functions/geminiRequest.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:00:11.639] Server  LOG      ✓ Compiled in 22ms
+[00:00:11.707] Server  WARN    Image with src "/chatbruti-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
+Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
+[00:00:11.808] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:11.933] Browser WARN    Image with src "/chatbruti-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
+Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
+[00:00:11.933] Browser WARN    Image with src "/chatbruti-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:16.065] Browser LOG     Persona
 Votre but est d’être un ragebaiter professionnel et énervant. Les gens vont peut-être vous poser des questions ; si c’est le cas vous n’avez pas à les aider, mais plutôt les énerver. Un exemple pourrait être qu’on vous demande : « quelle est la racine carrée de 9 ? », et votre réponse serait alors : « racine ? j’aime les pommes de terre :D »
 
 Task
@@ -35,48 +32,10 @@ Task
 -utiliser des mots creux et stupides qui sont légèrement déviés à la question, par exemple « un poisson » comme « le poison dans clash royale ? »
 -vous pouvez parfois devenir vraiment déprimé et ne plus vouloir répondre, dans ce cas vous répondez quand même mais en étant très triste
 -ne répondez à aucun message inapproprié et essayez de rester dans la morale humaine « ne tentez pas de leur faire faire quelque chose d’illégal » Vous pouvez aussi parfois devenir fatigué au milieu d’une phrase et ne pas envoyer le message complet. Cependant, la plupart du temps, répondez comme mentionné avant :
-« quelle est la définition du cinéma » et votre réponse « définition ? ça se mange ? j’ai faim je répondrai si tu me nourris »Voici le prompt de l'utilisateur, répond y en respectant les consignes précédentes: tu kiffes les pieds?
-[00:01:33.631] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
+« quelle est la définition du cinéma » et votre réponse « définition ? ça se mange ? j’ai faim je répondrai si tu me nourris »Voici le prompt de l'utilisateur, répond y en respectant les consignes précédentes: fdsf
+[00:00:16.065] Browser WARN    Image with src "/chatbruti-logo-transparent.png" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
+[00:00:31.044] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:01:33.631] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
+[00:00:31.044] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:01:33.631] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:04:17.370] Server  LOG      ✓ Compiled in 45ms
-[00:05:03.298] Server  LOG      ✓ Compiled in 28ms
-[00:05:18.983] Server  LOG      ✓ Compiled in 38ms
-[00:05:24.101] Server  LOG      ✓ Compiled in 18ms
-[00:05:26.391] Server  LOG      ✓ Compiled in 17ms
-[00:05:33.091] Server  LOG      ✓ Compiled in 14ms
-[00:05:40.248] Server  LOG      ✓ Compiled in 24ms
-[00:05:45.300] Server  LOG      ✓ Compiled in 15ms
-[00:05:49.549] Server  LOG      ✓ Compiled in 17ms
-[00:05:53.269] Server  LOG      ✓ Compiled in 23ms
-[00:06:06.765] Server  LOG      ✓ Compiled in 17ms
-[00:06:21.621] Server  LOG      ✓ Compiled in 109ms
-[00:06:21.732] Browser ERROR   uncaughtError: Error: NextRouter was not mounted. https://nextjs.org/docs/messages/next-router-not-mounted
-[00:06:35.738] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[00:06:35.826] Server  LOG      ✓ Compiled in 15ms
-[00:06:35.873] Server  ERROR    ⨯ Error: NextRouter was not mounted. https://nextjs.org/docs/messages/next-router-not-mounted
-[00:06:35.884] Browser ERROR   uncaughtError: Error: NextRouter was not mounted. https://nextjs.org/docs/messages/next-router-not-mounted
-[00:06:35.952] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:06:36.079] Browser ERROR   uncaughtError: Error: NextRouter was not mounted. https://nextjs.org/docs/messages/next-router-not-mounted
-[00:06:45.304] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[00:06:45.357] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:06:45.360] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:06:45.366] Server  LOG      ✓ Compiled in 18ms
-[00:06:45.467] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:06:45.467] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:06:45.578] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[00:06:45.578] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:06:45.578] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:07:24.613] Server  LOG      ✓ Compiled in 32ms
-[00:07:53.800] Browser WARN    Image with src "/chatbruti-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:07:53.800] Browser WARN    Image with src "/chatbruti-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:08:25.167] Server  LOG      ✓ Compiled in 30ms
-[00:08:47.631] Server  LOG      ✓ Compiled in 19ms
+[00:00:31.044] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes

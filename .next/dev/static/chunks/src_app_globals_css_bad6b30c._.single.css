@@ -523,10 +523,6 @@
     right: calc(var(--spacing) * 10);
   }
 
-  .right-20 {
-    right: calc(var(--spacing) * 20);
-  }
-
   .bottom-0 {
     bottom: calc(var(--spacing) * 0);
   }
@@ -535,20 +531,12 @@
     bottom: calc(var(--spacing) * 10);
   }
 
-  .bottom-20 {
-    bottom: calc(var(--spacing) * 20);
-  }
-
   .left-0 {
     left: calc(var(--spacing) * 0);
   }
 
   .left-1\/2 {
     left: 50%;
-  }
-
-  .left-20 {
-    left: calc(var(--spacing) * 20);
   }
 
   .-z-10 {
@@ -763,10 +751,6 @@
 
   .min-h-\[150vh\] {
     min-height: 150vh;
-  }
-
-  .min-h-screen {
-    min-height: 100vh;
   }
 
   .min-h-svh {
