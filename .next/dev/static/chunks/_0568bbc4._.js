@@ -11,10 +11,13 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 const Subtitle = ({ ...props })=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
         className: "font-normal md:font-semibold text-sm sm:text-md text-center md:text-lg",
+        style: {
+            color: props.textColor
+        },
         children: props.children
     }, void 0, false, {
         fileName: "[project]/src/components/Global/Subtitle.tsx",
-        lineNumber: 9,
+        lineNumber: 10,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };
@@ -38,10 +41,13 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist
 const Title = ({ ...props })=>{
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
         className: "font-bold text-xl sm:text-3xl md:text-5xl",
+        style: {
+            color: props.textColor
+        },
         children: props.children
     }, void 0, false, {
         fileName: "[project]/src/components/Global/Title.tsx",
-        lineNumber: 9,
+        lineNumber: 10,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };
