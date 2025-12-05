@@ -21,7 +21,7 @@ function Home() {
         children: "aa"
     }, void 0, false, {
         fileName: "[project]/src/app/page.tsx",
-        lineNumber: 6,
+        lineNumber: 4,
         columnNumber: 10
     }, this);
 }

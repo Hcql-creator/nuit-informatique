@@ -7,7 +7,7 @@ interface Icon {
 }
 
 interface Props {
-  icon: Icon;
+  icon?: Icon;
   children: ReactNode;
   bgColor: string;
   hoverColor: string;
@@ -49,9 +49,9 @@ const Button = ({ ...props }: Props) => {
       onMouseLeave={() => setBgColor(props.bgColor)}
       onClick={() => props.onClick()}
     >
-      {props.icon.iconPosition === "left" && props.icon.icon}
+      {props.icon?.iconPosition === "left" && props.icon.icon}
       {props.children}
-      {props.icon.iconPosition === "right" && props.icon.icon}
+      {props.icon?.iconPosition === "right" && props.icon.icon}
     </button>
   );
 };
