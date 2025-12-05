@@ -29,7 +29,7 @@ const IconButton = ({ ...props })=>{
         },
         onMouseEnter: ()=>hoverActive && setBgColor(props.hoverColor),
         onMouseLeave: ()=>setBgColor(""),
-        onClick: ()=>props.onClick,
+        onClick: ()=>props.onClick(),
         children: props.icon
     }, void 0, false, {
         fileName: "[project]/src/components/Buttons/IconButton.tsx",

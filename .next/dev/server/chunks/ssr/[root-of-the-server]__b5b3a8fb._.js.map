@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///Users/temet/nuit-informatique/src/components/ChatBruti/InputSection/FullInputSection.tsx"],"sourcesContent":["import React from \"react\";\n\nconst FullInputSection = () => {\n  return <div>FullInputSection</div>;\n};\n\nexport default FullInputSection;\n"],"names":[],"mappings":";;;;;;AAEA,MAAM,mBAAmB;IACvB,qBAAO,8OAAC;kBAAI;;;;;;AACd;uCAEe"}},
+    {"offset": {"line": 38, "column": 0}, "map": {"version":3,"sources":["file:///Users/temet/nuit-informatique/src/app/chatbruti/page.tsx"],"sourcesContent":["import FullInputSection from \"@/src/components/ChatBruti/InputSection/FullInputSection\";\nimport React from \"react\";\n\nconst page = () => {\n  return (\n    <div className=\"size-full flex justify-center items-center\">\n      {/* Input Section */}\n      <section>\n        <FullInputSection />\n      </section>\n    </div>\n  );\n};\n\nexport default page;\n"],"names":[],"mappings":";;;;;AAAA;;;AAGA,MAAM,OAAO;IACX,qBACE,8OAAC;QAAI,WAAU;kBAEb,cAAA,8OAAC;sBACC,cAAA,8OAAC,8KAAgB;;;;;;;;;;;;;;;AAIzB;uCAEe"}}]
+}
