@@ -2,6 +2,8 @@
 import { useState, useEffect } from "react";
 import RickRoll from "./RickRoll";
 import CaesarForm from "./CaesarForm";
+import Bouton from "../BoutonQuiBouge/Bouton";
+import SelectorN100 from "../SeLecteurDeFou/Selecteur";
 
 function caesarCipher(str: string, shift: number = 3) {
   return str
@@ -79,6 +81,11 @@ export default function HomePage() {
   if (currentPage === "home") {
     return (
       <div className="p-6 bg-white rounded-xl border border-black shadow-lg">
+        <h1>
+          ON A FAIT TROIS FORMULAIRE TRES SPECIAL A VOUS DE LES DECOUVRIR!
+        </h1>
+        <div>‎ ‎ </div>
+        <div>‎ ‎ </div>
         <h1 className="text-xl font-bold mb-4">Pages disponibles :</h1>
         <ul className="list-disc ml-6">
           {Object.keys(pages).map((p) => (
@@ -91,6 +98,17 @@ export default function HomePage() {
           onSkip={handleSkip}
           setInput={setInput}
         />
+        <div>‎ ‎ </div>
+        <div>‎ ‎ </div>
+        <div>
+          {" "}
+          <Bouton></Bouton>
+        </div>
+        <div>‎ ‎ </div>
+        <div>‎ ‎ </div>
+        <div>
+          <SelectorN100></SelectorN100>
+        </div>
       </div>
     );
   }

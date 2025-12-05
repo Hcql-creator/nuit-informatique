@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [00:00:00.885] Server  LOG      ✓ Ready in 656ms
 [00:00:04.614] Server  ERROR    ⨯ ./nuit-informatique/src/components/Snake/Snake.tsx:6:1
 Module not found: Can't resolve '@/components/ui/alert'
@@ -152,3 +153,36 @@ Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
 [00:03:46.993] Browser LOG     KONAMI CODE ACTIVATED!
 [00:04:19.782] Server  LOG      ✓ Compiled in 65ms
 [00:04:39.559] Server  LOG      ✓ Compiled in 67ms
+=======
+[00:00:02.841] Server  LOG      ✓ Ready in 1996ms
+[00:00:17.766] Server  LOG      ○ Compiling / ...
+[00:00:21.626] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
+Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
+[00:00:21.644] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
+Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
+[00:00:22.476] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:22.530] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
+Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
+[00:00:22.530] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:00:22.530] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
+Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
+[00:00:22.530] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:40.848] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:44.558] Server  LOG      ✓ Compiled in 98ms
+[00:02:00.185] Server  LOG      ✓ Compiled in 84ms
+[00:02:30.666] Server  LOG      ✓ Compiled in 67ms
+[00:02:37.243] Server  LOG      ✓ Compiled in 77ms
+[00:02:51.263] Server  LOG      ✓ Compiled in 74ms
+[00:02:57.161] Server  LOG      ✓ Compiled in 92ms
+[00:03:19.883] Server  LOG      ✓ Compiled in 101ms
+[00:03:30.504] Server  LOG      ✓ Compiled in 86ms
+[00:04:19.297] Server  LOG      ✓ Compiled in 111ms
+[00:05:58.478] Server  LOG      ✓ Compiled in 69ms
+[00:06:06.408] Server  LOG      ✓ Compiled in 116ms
+[00:09:04.397] Server  LOG      ✓ Compiled in 78ms
+[00:09:14.883] Server  LOG      ✓ Compiled in 85ms
+[00:09:30.231] Server  LOG      ✓ Compiled in 90ms
+[00:09:46.691] Server  LOG      ✓ Compiled in 60ms
+>>>>>>> a0a4cd5670479f7d48ab3c0e146447ce65fd26fd
+[00:06:24.926] Server  LOG      ✓ Compiled in 106ms
