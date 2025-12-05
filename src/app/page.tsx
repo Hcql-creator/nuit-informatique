@@ -1,7 +1,6 @@
 "use client";
 import { AlignEndVertical } from "lucide-react";
-import HomePage from "../components/PageMenu/HomePage";
-import PagePrecedente from "../components/BSOD/PagePrecedente";
+import HomePage from "../components/NewTroll/HomePage";
 
 export default function Home() {
   return (
