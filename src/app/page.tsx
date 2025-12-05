@@ -17,6 +17,7 @@ import CardItem from "../components/Accueil/CardItem";
 import { useRouter } from "next/navigation";
 import BSODScreen from "../components/Accueil/BSOD/BSOD";
 import { useEffect, useState } from "react";
+import Snake from "../components/Snake/Snake"
 
 const FIRST_IMAGE = {
   imageUrl: "/linux-desktop.png",
@@ -30,6 +31,7 @@ export default function Home() {
   const [showError, setShowError] = useState(true);
   return (
     <div className="relative h-[140dvh] flex flex-col justify-start items-center">
+      <Snake />
       {showError && <BSODScreen onClick={() => setShowError(false)} />}
       <div className="relative size-full flex justify-start flex-col">
         {/* BG Picture */}
@@ -98,7 +100,7 @@ export default function Home() {
               onClick={() =>
                 router.push("https://nird.forge.apps.education.fr/")
               }
-              className="tap-highlight-transparent cursor-pointer hover:bg-blue-400 w-fit no-underline active:opacity-disabled group box-border appearance-none select-none subpixel-antialiased tap-highlight-transparent data-[pressed=true]:scale-[0.97] outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover group flex transform items-center justify-center whitespace-nowrap rounded-md border border-white bg-brand-700 px-8 font-medium text-white hover:ring-2 hover:ring-brand-700 hover:ring-offset-2 focus:outline-none focus:ring-2 focus:ring-offset-2 gap-2 overflow-clip capitalize relative z-10 h-14 text-base shadow-lg transition-all duration-300 hover:shadow-xl"
+              className="kill-zone tap-highlight-transparent cursor-pointer hover:bg-blue-400 w-fit no-underline active:opacity-disabled group box-border appearance-none select-none subpixel-antialiased tap-highlight-transparent data-[pressed=true]:scale-[0.97] outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover group flex transform items-center justify-center whitespace-nowrap rounded-md border border-white bg-brand-700 px-8 font-medium text-white hover:ring-2 hover:ring-brand-700 hover:ring-offset-2 focus:outline-none focus:ring-2 focus:ring-offset-2 gap-2 overflow-clip capitalize relative z-10 h-14 text-base shadow-lg transition-all duration-300 hover:shadow-xl"
             >
               Découvrir le NIRD <ArrowBigRight />
             </a>
@@ -112,7 +114,7 @@ export default function Home() {
       </div>
       {/* Cartes */}
       <div className="w-full h-2/5 bg-linear-to-br bg-[#1a3473] shadow-xl p-6 flex flex-col gap-10 items-center">
-        <div className="flex justify-evenly gap-20">
+        <div className="kill-zone flex justify-evenly gap-20">
           <PresentationCard
             title="Démarche NID - 3 Pilliers"
             icon={<Laptop size={50} />}
@@ -153,7 +155,7 @@ export default function Home() {
         <a
           role="button"
           onClick={() => router.push("https://nird.forge.apps.education.fr/")}
-          className="tap-highlight-transparent cursor-pointer hover:bg-blue-400 w-fit no-underline active:opacity-disabled group box-border appearance-none select-none subpixel-antialiased tap-highlight-transparent data-[pressed=true]:scale-[0.97] outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover group flex transform items-center justify-center whitespace-nowrap rounded-md border border-white bg-brand-700 px-8 font-medium text-white hover:ring-2 hover:ring-brand-700 hover:ring-offset-2 focus:outline-none focus:ring-2 focus:ring-offset-2 gap-2 overflow-clip capitalize relative z-10 h-14 text-base shadow-lg transition-all duration-300 hover:shadow-xl"
+          className="kill-zone tap-highlight-transparent cursor-pointer hover:bg-blue-400 w-fit no-underline active:opacity-disabled group box-border appearance-none select-none subpixel-antialiased tap-highlight-transparent data-[pressed=true]:scale-[0.97] outline-none data-[focus-visible=true]:z-10 data-[focus-visible=true]:outline-2 data-[focus-visible=true]:outline-focus data-[focus-visible=true]:outline-offset-2 transition-transform-colors-opacity motion-reduce:transition-none data-[hover=true]:opacity-hover group flex transform items-center justify-center whitespace-nowrap rounded-md border border-white bg-brand-700 px-8 font-medium text-white hover:ring-2 hover:ring-brand-700 hover:ring-offset-2 focus:outline-none focus:ring-2 focus:ring-offset-2 gap-2 overflow-clip capitalize relative z-10 h-14 text-base shadow-lg transition-all duration-300 hover:shadow-xl"
         >
           Plus d'Informations <ArrowBigRight />
         </a>

@@ -1,739 +1,465 @@
-[00:00:00.766] Server  LOG      ✓ Ready in 584ms
-[00:00:03.328] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
+[00:00:00.925] Server  LOG      ✓ Ready in 676ms
+[00:00:06.316] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:00:03.330] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
+[00:00:06.323] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:00:03.475] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:00:03.585] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
+[00:00:06.699] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:06.699] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:00:03.585] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
+[00:00:06.699] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:00:03.585] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:01:05.587] Server  LOG      ✓ Compiled in 21ms
-[00:02:58.407] Server  LOG      ✓ Compiled in 21ms
-[00:03:06.773] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
+[00:00:06.989] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:00:07.353] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:00:42.040] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:42.181] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:03:06.774] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
+[00:00:42.181] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:03:06.881] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:03:06.881] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
+[00:00:42.181] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:00:42.181] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:01:12.934] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:13.068] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:03:06.881] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
+[00:01:13.068] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:03:06.987] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:03:14.774] Server  LOG      ✓ Compiled in 31ms
-[00:03:19.111] Server  LOG      ✓ Compiled in 14ms
-[00:06:17.331] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
+[00:01:13.068] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:01:13.068] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:06:31.885] Server  LOG      ✓ Compiled in 76ms
+[00:18:55.732] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:55.732] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:06:17.332] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
+[00:18:55.732] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:18:55.732] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:06:17.464] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:06:17.464] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
+[00:18:55.956] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:24:52.855] Server  LOG      ✓ Compiled in 70ms
+[00:30:24.505] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:24.636] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:06:17.464] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
+[00:30:24.636] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:06:17.579] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:11:02.596] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:11:02.596] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
+[00:30:24.636] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:30:24.636] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:38:44.815] Server  LOG      ✓ Compiled in 69ms
+[00:38:44.850] Server  ERROR   Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+1. You might have mismatching versions of React and the renderer (such as React DOM)
+2. You might be breaking the Rules of Hooks
+3. You might have more than one copy of React in the same app
+See https://react.dev/link/invalid-hook-call for tips about how to debug and fix this problem.
+[00:38:45.177] Server  ERROR    ⨯ TypeError: Cannot read properties of null (reading 'useState')
+[00:38:45.378] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:38:46.255] Browser ERROR   uncaughtError: Error: Invalid hook call. Hooks can only be called inside of the body of a function component. This could happen for one of the following reasons:
+1. You might have mismatching versions of React and the renderer (such as React DOM)
+2. You might be breaking the Rules of Hooks
+3. You might have more than one copy of React in the same app
+See https://react.dev/link/invalid-hook-call for tips about how to debug and fix this problem.
+[00:43:59.323] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:43:59.324] Server  WARN     ⚠ Fast Refresh had to perform a full reload when ./src/app/page.tsx changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:43:59.324] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:43:59.473] Server  LOG      ✓ Compiled in 61ms
+[00:43:59.540] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:11:02.596] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
+[00:43:59.542] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:11:02.702] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:11:30.682] Server  LOG      ✓ Compiled in 20ms
-[00:11:41.138] Server  LOG      ✓ Compiled in 15ms
-[00:11:47.398] Server  LOG      ✓ Compiled in 31ms
-[00:11:53.744] Server  LOG      ✓ Compiled in 28ms
-[00:11:55.868] Server  LOG      ✓ Compiled in 17ms
-[00:12:07.098] Server  LOG      ✓ Compiled in 14ms
-[00:12:13.829] Server  LOG      ✓ Compiled in 15ms
-[00:12:19.336] Server  LOG      ✓ Compiled in 29ms
-[00:12:22.860] Server  LOG      ✓ Compiled in 14ms
-[00:12:28.098] Server  LOG      ✓ Compiled in 13ms
-[00:12:32.791] Server  LOG      ✓ Compiled in 18ms
-[00:12:50.061] Server  LOG      ✓ Compiled in 24ms
-[00:12:55.557] Server  LOG      ✓ Compiled in 27ms
-[00:13:10.686] Server  LOG      ✓ Compiled in 26ms
-[00:13:14.143] Server  LOG      ✓ Compiled in 16ms
-[00:13:22.032] Server  LOG      ✓ Compiled in 27ms
-[00:13:25.787] Server  LOG      ✓ Compiled in 16ms
-[00:13:39.175] Server  LOG      ✓ Compiled in 24ms
-[00:13:43.867] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
+[00:43:59.742] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:44:00.641] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:13:43.867] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
+[00:44:00.641] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:13:43.982] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:13:43.982] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:13:43.982] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:13:43.982] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:13:53.354] Server  LOG      ✓ Compiled in 16ms
-[00:14:11.144] Server  LOG      ✓ Compiled in 12ms
-[00:14:14.242] Server  LOG      ✓ Compiled in 13ms
-[00:14:16.075] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:14:16.077] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:14:16.209] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:14:16.210] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:14:16.210] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:14:16.317] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:14:53.308] Server  LOG      ✓ Compiled in 23ms
-[00:15:02.065] Server  LOG      ✓ Compiled in 23ms
-[00:15:06.055] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:15:06.055] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:15:06.171] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:15:06.171] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:15:06.171] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:15:06.274] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:15:42.360] Server  LOG      ✓ Compiled in 23ms
-[00:15:50.340] Server  LOG      ✓ Compiled in 13ms
-[00:15:57.011] Server  LOG      ✓ Compiled in 13ms
-[00:16:01.602] Server  LOG      ✓ Compiled in 24ms
-[00:16:05.627] Server  LOG      ✓ Compiled in 25ms
-[00:16:07.403] Server  LOG      ✓ Compiled in 13ms
-[00:16:09.378] Server  LOG      ✓ Compiled in 28ms
-[00:16:11.132] Server  LOG      ✓ Compiled in 20ms
-[00:16:26.563] Server  LOG      ✓ Compiled in 11ms
-[00:16:38.290] Server  LOG      ✓ Compiled in 12ms
-[00:16:44.092] Server  LOG      ✓ Compiled in 12ms
-[00:16:57.626] Server  LOG      ✓ Compiled in 25ms
-[00:16:59.224] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:16:59.225] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:16:59.353] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:16:59.353] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:16:59.353] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:16:59.458] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:17:06.784] Server  LOG      ✓ Compiled in 13ms
-[00:17:35.476] Server  LOG      ✓ Compiled in 13ms
-[00:17:41.339] Server  LOG      ✓ Compiled in 21ms
-[00:17:45.006] Server  LOG      ✓ Compiled in 11ms
-[00:17:47.157] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:17:47.158] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:17:47.309] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:17:47.309] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:17:47.309] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:17:47.309] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:17:55.410] Server  LOG      ✓ Compiled in 12ms
-[00:39:11.416] Server  LOG      ✓ Compiled in 42ms
-[00:39:11.526] Browser ERROR   ./src/app/page.tsx:90:5
+[00:44:01.255] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/snake.png" "received" null
+[00:44:01.646] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[00:45:33.737] Server  LOG      ✓ Compiled in 48ms
+[00:45:33.853] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/snake.png" "received" null
+[00:45:36.490] Browser LOG     Current sequence: ["ArrowUp"]
+[00:45:36.932] Browser LOG     Current sequence: ["ArrowUp","ArrowUp"]
+[00:45:36.933] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown"]
+[00:45:37.462] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowUp"]
+[00:45:37.610] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowUp","ArrowUp"]
+[00:45:37.846] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowUp","ArrowUp","ArrowDown"]
+[00:45:38.005] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowUp","ArrowUp","ArrowDown","ArrowDown"]
+[00:45:38.284] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowUp"]
+[00:45:38.489] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowUp","ArrowUp"]
+[00:45:38.918] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowUp","ArrowUp","ArrowLeft"]
+[00:45:39.637] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowUp","ArrowUp","ArrowLeft","ArrowUp"]
+[00:45:39.836] Browser LOG     Current sequence: ["ArrowUp","ArrowDown","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowUp","ArrowUp","ArrowLeft","ArrowUp","ArrowUp"]
+[00:45:40.205] Browser LOG     Current sequence: ["ArrowDown","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowUp","ArrowUp","ArrowLeft","ArrowUp","ArrowUp","ArrowDown"]
+[00:45:40.394] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowUp","ArrowUp","ArrowLeft","ArrowUp","ArrowUp","ArrowDown","ArrowDown"]
+[00:45:40.803] Browser LOG     Current sequence: ["ArrowUp","ArrowDown","ArrowDown","ArrowUp","ArrowUp","ArrowLeft","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft"]
+[00:45:41.113] Browser LOG     Current sequence: ["ArrowDown","ArrowDown","ArrowUp","ArrowUp","ArrowLeft","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight"]
+[00:45:41.557] Browser LOG     Current sequence: ["ArrowDown","ArrowUp","ArrowUp","ArrowLeft","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft"]
+[00:45:42.002] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowLeft","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight"]
+[00:45:42.969] Browser LOG     Current sequence: ["ArrowUp","ArrowLeft","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight","b"]
+[00:45:43.384] Browser LOG     Current sequence: ["ArrowLeft","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight","b","a"]
+[00:45:43.384] Browser LOG     KONAMI CODE ACTIVATED!
+[00:45:52.813] Browser LOG     Current sequence: ["ArrowLeft"]
+[00:45:54.912] Browser LOG     Current sequence: ["ArrowLeft","ArrowUp"]
+[00:45:55.307] Browser LOG     Current sequence: ["ArrowLeft","ArrowUp","ArrowUp"]
+[00:45:55.891] Browser LOG     Current sequence: ["ArrowLeft","ArrowUp","ArrowUp","ArrowDown"]
+[00:45:56.275] Browser LOG     Current sequence: ["ArrowLeft","ArrowUp","ArrowUp","ArrowDown","ArrowDown"]
+[00:45:56.799] Browser LOG     Current sequence: ["ArrowLeft","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowRight"]
+[00:45:57.398] Browser LOG     Current sequence: ["ArrowLeft","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowRight","ArrowLeft"]
+[00:45:57.820] Browser LOG     Current sequence: ["ArrowLeft","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowRight","ArrowLeft","ArrowRight"]
+[00:45:58.244] Browser LOG     Current sequence: ["ArrowLeft","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowRight","ArrowLeft","ArrowRight","ArrowLeft"]
+[00:45:58.590] Browser LOG     Current sequence: ["ArrowLeft","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowRight","ArrowLeft","ArrowRight","ArrowLeft","b"]
+[00:45:58.915] Browser LOG     Current sequence: ["ArrowLeft","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowRight","ArrowLeft","ArrowRight","ArrowLeft","b","a"]
+[00:46:00.043] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowRight","ArrowLeft","ArrowRight","ArrowLeft","b","a","ArrowUp"]
+[00:46:00.796] Browser LOG     Current sequence: ["ArrowUp","ArrowDown","ArrowDown","ArrowRight","ArrowLeft","ArrowRight","ArrowLeft","b","a","ArrowUp","ArrowUp"]
+[00:46:00.797] Browser LOG     Current sequence: ["ArrowDown","ArrowDown","ArrowRight","ArrowLeft","ArrowRight","ArrowLeft","b","a","ArrowUp","ArrowUp","ArrowUp"]
+[00:46:00.797] Browser LOG     Current sequence: ["ArrowDown","ArrowRight","ArrowLeft","ArrowRight","ArrowLeft","b","a","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[00:46:00.797] Browser LOG     Current sequence: ["ArrowRight","ArrowLeft","ArrowRight","ArrowLeft","b","a","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[00:46:00.797] Browser LOG     Current sequence: ["ArrowLeft","ArrowRight","ArrowLeft","b","a","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[00:46:00.797] Browser LOG     Current sequence: ["ArrowRight","ArrowLeft","b","a","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[00:46:00.797] Browser LOG     Current sequence: ["ArrowLeft","b","a","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[00:46:00.797] Browser LOG     Current sequence: ["b","a","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[00:46:00.797] Browser LOG     Current sequence: ["a","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[00:46:00.797] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[00:46:00.797] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[00:46:00.797] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[00:46:00.797] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[00:46:00.797] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[00:46:00.797] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[00:46:00.797] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[00:46:00.797] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[00:46:00.797] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[00:46:00.797] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[00:46:01.663] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[00:46:02.027] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[00:46:02.456] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown"]
+[00:46:02.705] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowDown"]
+[00:46:03.624] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft"]
+[00:46:04.033] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight"]
+[00:46:04.447] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft"]
+[00:46:04.781] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight"]
+[00:46:05.007] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight","b"]
+[00:46:05.365] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight","b","a"]
+[00:46:05.365] Browser LOG     KONAMI CODE ACTIVATED!
+[00:46:09.825] Browser LOG     Current sequence: ["ArrowRight"]
+[00:46:10.957] Browser LOG     Current sequence: ["ArrowRight","ArrowUp"]
+[00:46:11.104] Browser LOG     Current sequence: ["ArrowRight","ArrowUp","ArrowUp"]
+[00:46:11.940] Browser LOG     Current sequence: ["ArrowRight","ArrowUp","ArrowUp","ArrowRight"]
+[00:46:11.940] Browser LOG     Current sequence: ["ArrowRight","ArrowUp","ArrowUp","ArrowRight","ArrowUp"]
+[00:51:59.941] Server  LOG      ✓ Compiled in 38ms
+[00:52:00.045] Browser ERROR   ./src/components/Snake/Snake.tsx:261:25
 Parsing ecmascript source code failed
-  88 |       {/* Cartes */}
-  89 |       <div className="h-screen"
-> 90 |     </div>
-     |     ^
-  91 |   );
-  92 | }
-  93 |
+  259 |       {/* UI Overlay */}
+  260 |       
+> 261 |       {alert({gameState !== GameState.RUNNING && (Game Over! Score: {score} High Score: {highScore}
+      |                         ^^^
+  262 |       )})}
+  263 |
+  264 |
+
+Expected a semicolon
+
+Import traces:
+  Client Component Browser:
+    ./src/components/Snake/Snake.tsx [Client Component Browser]
+    ./src/app/page.tsx [Client Component Browser]
+    ./src/app/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./src/components/Snake/Snake.tsx [Client Component SSR]
+    ./src/app/page.tsx [Client Component SSR]
+    ./src/app/page.tsx [Server Component]
+[00:52:00.045] Browser ERROR   ./src/components/Snake/Snake.tsx:261:25
+Parsing ecmascript source code failed
+  259 |       {/* UI Overlay */}
+  260 |       
+> 261 |       {alert({gameState !== GameState.RUNNING && (Game Over! Score: {score} High Score: {highScore}
+      |                         ^^^
+  262 |       )})}
+  263 |
+  264 |
 
 Expression expected
 
 Import traces:
   Client Component Browser:
+    ./src/components/Snake/Snake.tsx [Client Component Browser]
     ./src/app/page.tsx [Client Component Browser]
     ./src/app/page.tsx [Server Component]
 
   Client Component SSR:
+    ./src/components/Snake/Snake.tsx [Client Component SSR]
     ./src/app/page.tsx [Client Component SSR]
     ./src/app/page.tsx [Server Component]
-[00:39:11.526] Browser ERROR   ./src/app/page.tsx:90:6
+[00:56:59.052] Server  LOG      ✓ Compiled in 69ms
+[00:56:59.947] Browser ERROR   ./src/components/Snake/Snake.tsx:261:25
 Parsing ecmascript source code failed
-  88 |       {/* Cartes */}
-  89 |       <div className="h-screen"
-> 90 |     </div>
-     |      ^^^^^
-  91 |   );
-  92 | }
-  93 |
+  259 |       {/* UI Overlay */}
+  260 |       
+> 261 |       {alert({gameState !== GameState.RUNNING && (Game Over! Score: {score} High Score: {highScore}
+      |                         ^^^
+  262 |       )})}
+  263 |
+  264 |
 
-Unterminated regexp literal
+Expected a semicolon
 
 Import traces:
   Client Component Browser:
+    ./src/components/Snake/Snake.tsx [Client Component Browser]
     ./src/app/page.tsx [Client Component Browser]
     ./src/app/page.tsx [Server Component]
 
   Client Component SSR:
+    ./src/components/Snake/Snake.tsx [Client Component SSR]
     ./src/app/page.tsx [Client Component SSR]
     ./src/app/page.tsx [Server Component]
-[00:39:32.329] Server  LOG      ✓ Compiled in 48ms
-[00:39:34.937] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:39:34.938] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:39:35.053] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[00:39:35.053] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:39:35.053] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[00:39:35.158] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[00:39:39.794] Server  LOG      ✓ Compiled in 32ms
-[00:39:50.340] Server  LOG      ✓ Compiled in 16ms
-[00:39:59.684] Server  LOG      ✓ Compiled in 43ms
-[00:40:08.556] Server  LOG      ✓ Compiled in 12ms
-[00:40:14.814] Server  LOG      ✓ Compiled in 33ms
-[00:40:54.020] Server  LOG      ✓ Compiled in 14ms
-[00:41:41.961] Server  LOG      ✓ Compiled in 15ms
-[00:41:52.963] Server  LOG      ✓ Compiled in 14ms
-[00:42:04.393] Server  LOG      ✓ Compiled in 13ms
-[00:42:15.031] Server  LOG      ✓ Compiled in 16ms
-[00:42:18.509] Server  LOG      ✓ Compiled in 12ms
-[00:42:21.709] Server  LOG      ✓ Compiled in 11ms
-[00:42:22.488] Server  LOG      ✓ Compiled in 23ms
-[00:42:27.596] Server  LOG      ✓ Compiled in 16ms
-[00:42:33.100] Server  LOG      ✓ Compiled in 25ms
-[00:42:38.557] Server  LOG      ✓ Compiled in 12ms
-[00:42:44.962] Server  LOG      ✓ Compiled in 13ms
-[00:44:17.906] Server  LOG      ✓ Compiled in 28ms
-[00:44:27.028] Server  LOG      ✓ Compiled in 25ms
-[00:44:40.258] Server  LOG      ✓ Compiled in 23ms
-[00:44:57.619] Server  LOG      ✓ Compiled in 28ms
-[00:45:21.313] Server  LOG      ✓ Compiled in 15ms
-[00:45:48.742] Server  LOG      ✓ Compiled in 58ms
-[00:46:31.177] Server  LOG      ✓ Compiled in 12ms
-[00:46:34.688] Server  LOG      ✓ Compiled in 25ms
-[00:51:05.579] Server  LOG      ✓ Compiled in 18ms
-[00:51:05.683] Browser ERROR   ./src/app/page.tsx:93:9
+[00:56:59.947] Browser ERROR   ./src/components/Snake/Snake.tsx:261:25
 Parsing ecmascript source code failed
-  91 |       {/* Cartes */}
-  92 |       <div className="size-full bg-linear-to-br bg-[#1a3473] shadow-xl p-6"><
-> 93 |         </div>
-     |         ^
-  94 |     </div>
-  95 |   );
-  96 | }
+  259 |       {/* UI Overlay */}
+  260 |       
+> 261 |       {alert({gameState !== GameState.RUNNING && (Game Over! Score: {score} High Score: {highScore}
+      |                         ^^^
+  262 |       )})}
+  263 |
+  264 |
 
 Expression expected
 
 Import traces:
   Client Component Browser:
+    ./src/components/Snake/Snake.tsx [Client Component Browser]
     ./src/app/page.tsx [Client Component Browser]
     ./src/app/page.tsx [Server Component]
 
   Client Component SSR:
+    ./src/components/Snake/Snake.tsx [Client Component SSR]
     ./src/app/page.tsx [Client Component SSR]
     ./src/app/page.tsx [Server Component]
-[00:51:05.683] Browser ERROR   ./src/app/page.tsx:93:10
+[00:57:06.551] Server  LOG      ✓ Compiled in 74ms
+[00:57:07.562] Browser ERROR   ./src/components/Snake/Snake.tsx:271:7
 Parsing ecmascript source code failed
-  91 |       {/* Cartes */}
-  92 |       <div className="size-full bg-linear-to-br bg-[#1a3473] shadow-xl p-6"><
-> 93 |         </div>
-     |          ^^^^^
-  94 |     </div>
-  95 |   );
-  96 | }
+  269 |         </Alert>
+  270 |
+> 271 |       {gameState === GameState.RUNNING && (
+      |       ^
+  272 |         <div className="fixed top-4 left-4 z-[10000] text-white bg-black/50 px-3 py-1 rounded">
+  273 |           Score: {score}
+  274 |         </div>
 
-Unterminated regexp literal
+Expected '</', got '{'
 
 Import traces:
   Client Component Browser:
+    ./src/components/Snake/Snake.tsx [Client Component Browser]
     ./src/app/page.tsx [Client Component Browser]
     ./src/app/page.tsx [Server Component]
 
   Client Component SSR:
+    ./src/components/Snake/Snake.tsx [Client Component SSR]
     ./src/app/page.tsx [Client Component SSR]
     ./src/app/page.tsx [Server Component]
-[00:52:04.639] Server  LOG      ✓ Compiled in 13ms
-[00:52:35.044] Server  LOG      ✓ Compiled in 16ms
-[00:52:39.350] Server  LOG      ✓ Compiled in 19ms
-[00:52:49.532] Server  LOG      ✓ Compiled in 29ms
-[00:53:04.886] Server  LOG      ✓ Compiled in 37ms
-[00:53:15.697] Server  LOG      ✓ Compiled in 16ms
-[00:53:35.695] Server  LOG      ✓ Compiled in 12ms
-[00:53:35.799] Browser ERROR   ./src/components/Accueil/PresentationCard.tsx:14:26
-Parsing ecmascript source code failed
-  12 |       {props.icon}
-  13 |       <div className="flex flex-col gap-3">
-> 14 |         <h2>{props.title</h2>
-     |                          ^^^^
-  15 |         <p>{props.children}</p>
-  16 |       </div>
-  17 |     </div>
-
-Unterminated regexp literal
-
-Import traces:
-  Client Component Browser:
-    ./src/components/Accueil/PresentationCard.tsx [Client Component Browser]
-    ./src/app/page.tsx [Client Component Browser]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/components/Accueil/PresentationCard.tsx [Client Component SSR]
-    ./src/app/page.tsx [Client Component SSR]
-    ./src/app/page.tsx [Server Component]
-[01:12:06.237] Server  WARN    Image with src "/chatbruti-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
+[01:02:47.414] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/snake.png" "received" null
+[01:03:03.133] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:12:06.411] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:12:06.411] Browser WARN    Image with src "/chatbruti-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
+[01:03:03.136] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:12:06.534] Browser WARN    Image with src "/chatbruti-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:12:14.130] Browser LOG     Persona
-Votre but est d’être un ragebaiter professionnel et énervant. Les gens vont peut-être vous poser des questions ; si c’est le cas vous n’avez pas à les aider, mais plutôt les énerver. Un exemple pourrait être qu’on vous demande : « quelle est la racine carrée de 9 ? », et votre réponse serait alors : « racine ? j’aime les pommes de terre :D »
-
-Task
--RAGEBAIT
--utiliser des mots creux et stupides qui sont légèrement déviés à la question, par exemple « un poisson » comme « le poison dans clash royale ? »
--vous pouvez parfois devenir vraiment déprimé et ne plus vouloir répondre, dans ce cas vous répondez quand même mais en étant très triste
--ne répondez à aucun message inapproprié et essayez de rester dans la morale humaine « ne tentez pas de leur faire faire quelque chose d’illégal » Vous pouvez aussi parfois devenir fatigué au milieu d’une phrase et ne pas envoyer le message complet. Cependant, la plupart du temps, répondez comme mentionné avant :
-« quelle est la définition du cinéma » et votre réponse « définition ? ça se mange ? j’ai faim je répondrai si tu me nourris »Voici le prompt de l'utilisateur, répond y en respectant les consignes précédentes: Carotte
-[01:12:14.130] Browser WARN    Image with src "/chatbruti-logo-transparent.png" has "fill" and parent element with invalid "position". Provided "sticky" should be one of absolute,fixed,relative.
-[01:12:31.623] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
+[01:03:03.380] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/snake.png" "received" null
+[01:03:03.412] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:03:03.550] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:12:31.623] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
+[01:03:03.550] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:12:31.716] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:12:31.716] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
+[01:03:03.550] Browser WARN    Image with src "/snake.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:03:03.550] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:05:57.101] Server  LOG      ✓ Compiled in 45ms
+[01:06:03.670] Browser LOG     Current sequence: ["ArrowUp"]
+[01:06:03.828] Browser LOG     Current sequence: ["ArrowUp","ArrowUp"]
+[01:06:04.336] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown"]
+[01:06:04.477] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown"]
+[01:06:05.016] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft"]
+[01:06:05.335] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight"]
+[01:06:05.799] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft"]
+[01:06:06.443] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight"]
+[01:06:08.977] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight","b"]
+[01:06:09.246] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight","b","a"]
+[01:06:09.246] Browser LOG     KONAMI CODE ACTIVATED!
+[01:06:13.805] Browser LOG     Current sequence: ["ArrowDown"]
+[01:06:13.930] Browser LOG     Current sequence: ["ArrowDown","ArrowUp"]
+[01:06:14.460] Browser LOG     Current sequence: ["ArrowDown","ArrowUp","ArrowUp"]
+[01:06:14.460] Browser LOG     Current sequence: ["ArrowDown","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:14.460] Browser LOG     Current sequence: ["ArrowDown","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:14.460] Browser LOG     Current sequence: ["ArrowDown","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:14.460] Browser LOG     Current sequence: ["ArrowDown","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:14.460] Browser LOG     Current sequence: ["ArrowDown","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:14.460] Browser LOG     Current sequence: ["ArrowDown","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:14.460] Browser LOG     Current sequence: ["ArrowDown","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:14.460] Browser LOG     Current sequence: ["ArrowDown","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:14.460] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:14.460] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:14.823] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:14.823] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown"]
+[01:06:15.127] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowUp"]
+[01:06:15.575] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowUp","ArrowUp"]
+[01:06:15.575] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:15.575] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:15.575] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:15.575] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:15.575] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:15.575] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:15.575] Browser LOG     Current sequence: ["ArrowUp","ArrowDown","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:18.456] Browser LOG     Current sequence: ["ArrowDown","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:18.580] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:19.917] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown"]
+[01:06:20.132] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowDown"]
+[01:06:20.929] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft"]
+[01:06:21.219] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight"]
+[01:06:21.578] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft"]
+[01:06:21.816] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight"]
+[01:06:22.256] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight","a"]
+[01:06:22.472] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight","a","b"]
+[01:06:23.906] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight","a","b","ArrowUp"]
+[01:06:24.494] Browser LOG     Current sequence: ["ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight","a","b","ArrowUp","ArrowUp"]
+[01:06:24.494] Browser LOG     Current sequence: ["ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight","a","b","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:24.495] Browser LOG     Current sequence: ["ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight","a","b","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:24.495] Browser LOG     Current sequence: ["ArrowLeft","ArrowRight","ArrowLeft","ArrowRight","a","b","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:24.495] Browser LOG     Current sequence: ["ArrowRight","ArrowLeft","ArrowRight","a","b","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:24.495] Browser LOG     Current sequence: ["ArrowLeft","ArrowRight","a","b","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:24.495] Browser LOG     Current sequence: ["ArrowRight","a","b","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:24.495] Browser LOG     Current sequence: ["a","b","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:24.495] Browser LOG     Current sequence: ["b","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:24.495] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:24.495] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:24.495] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:24.495] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:24.721] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:24.850] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp"]
+[01:06:25.455] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown"]
+[01:06:25.588] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowDown"]
+[01:06:25.918] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft"]
+[01:06:26.153] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight"]
+[01:06:26.433] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft"]
+[01:06:26.631] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight"]
+[01:06:27.231] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight","b"]
+[01:06:27.471] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight","b","a"]
+[01:06:27.471] Browser LOG     KONAMI CODE ACTIVATED!
+[01:06:31.146] Browser LOG     Current sequence: ["ArrowDown"]
+[01:06:31.146] Browser LOG     Current sequence: ["ArrowDown","ArrowDown"]
+[01:06:31.146] Browser LOG     Current sequence: ["ArrowDown","ArrowDown","ArrowDown"]
+[01:06:31.146] Browser LOG     Current sequence: ["ArrowDown","ArrowDown","ArrowDown","ArrowDown"]
+[01:06:31.146] Browser LOG     Current sequence: ["ArrowDown","ArrowDown","ArrowDown","ArrowDown","ArrowDown"]
+[01:06:31.146] Browser LOG     Current sequence: ["ArrowDown","ArrowDown","ArrowDown","ArrowDown","ArrowDown","ArrowDown"]
+[01:06:31.146] Browser LOG     Current sequence: ["ArrowDown","ArrowDown","ArrowDown","ArrowDown","ArrowDown","ArrowDown","ArrowDown"]
+[01:06:31.146] Browser LOG     Current sequence: ["ArrowDown","ArrowDown","ArrowDown","ArrowDown","ArrowDown","ArrowDown","ArrowDown","ArrowDown"]
+[01:06:31.146] Browser LOG     Current sequence: ["ArrowDown","ArrowDown","ArrowDown","ArrowDown","ArrowDown","ArrowDown","ArrowDown","ArrowDown","ArrowDown"]
+[01:06:31.146] Browser LOG     Current sequence: ["ArrowDown","ArrowDown","ArrowDown","ArrowDown","ArrowDown","ArrowDown","ArrowDown","ArrowDown","ArrowDown","ArrowDown"]
+[01:06:57.837] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:12:31.716] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
+[01:06:57.838] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:12:31.828] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:12:31.828] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+[01:06:58.032] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/snake.png" "received" null
+[01:06:58.165] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:06:58.292] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
+Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
+[01:06:58.292] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:14:57.344] Server  LOG      ✓ Compiled in 28ms
-[01:14:57.426] Browser ERROR   uncaughtError: ReferenceError: Laptop is not defined
-[01:15:01.682] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[01:15:01.738] Server  LOG      ✓ Compiled in 34ms
-[01:15:01.762] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
+[01:06:58.292] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:15:01.765] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
+[01:06:58.292] Browser WARN    Image with src "/snake.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:06:58.293] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:07:04.172] Browser LOG     Current sequence: ["ArrowUp"]
+[01:07:04.316] Browser LOG     Current sequence: ["ArrowUp","ArrowUp"]
+[01:07:04.579] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown"]
+[01:07:04.714] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown"]
+[01:07:05.018] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft"]
+[01:07:05.208] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight"]
+[01:07:05.518] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft"]
+[01:07:05.727] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight"]
+[01:07:09.602] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight","b"]
+[01:07:09.773] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight","b","a"]
+[01:07:09.773] Browser LOG     KONAMI CODE ACTIVATED!
+[01:07:12.631] Browser LOG     Current sequence: ["ArrowDown"]
+[01:07:13.039] Browser LOG     Current sequence: ["ArrowDown","ArrowDown"]
+[01:07:34.434] Server  LOG      ✓ Compiled in 43ms
+[01:09:33.312] Server  LOG      ✓ Compiled in 46ms
+[01:09:39.243] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:15:01.873] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:15:01.873] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
+[01:09:39.244] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:15:01.986] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
+[01:09:39.508] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:09:39.633] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:15:01.986] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:15:01.986] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+[01:09:39.633] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
+Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
+[01:09:39.634] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:18:54.916] Server  LOG      ✓ Compiled in 17ms
-[01:18:54.997] Browser ERROR   In HTML, %s cannot be a descendant of <%s>.
-This will cause a hydration error.%s <div> p 
-
-  ...
-    <HTTPAccessFallbackBoundary notFound={<SegmentViewNode>} forbidden={undefined} unauthorized={undefined}>
-      <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<SegmentViewNode>} forbidden={undefined} ...>
-        <RedirectBoundary>
-          <RedirectErrorBoundary router={{...}}>
-            <InnerLayoutRouter url="/" tree={[...]} params={{}} cacheNode={{lazyData:null, ...}} segmentPath={[...]} ...>
-              <SegmentViewNode type="page" pagePath="page.tsx">
-                <SegmentTrieNode>
-                <ClientPageRoot Component={function Home} serverProvidedParams={{...}}>
-                  <Home params={Promise} searchParams={Promise}>
-                    <div className="h-[200dvh]...">
-                      <div>
-                      <div className="size-full ...">
-                        <PresentationCard title="Démarche N..." icon={<Laptop>}>
-                          <div className="flex flex-...">
-                            <Laptop>
-                            <div className="flex flex-...">
-                              <h2>
->                             <p>
-                                <CardItem icon={true}>
->                                 <div className="flex gap-3">
-              ...
-            ...
-
-[01:18:54.997] Browser ERROR   <%s> cannot contain a nested %s.
-See this log for the ancestor stack trace. p <div>
-[01:19:25.707] Server  LOG      ✓ Compiled in 41ms
-[01:19:50.704] Server  LOG      ✓ Compiled in 45ms
-[01:20:15.253] Server  LOG      ✓ Compiled in 17ms
-[01:22:37.170] Server  LOG      ✓ Compiled in 39ms
-[01:23:04.962] Server  LOG      ✓ Compiled in 14ms
-[01:23:13.284] Server  LOG      ✓ Compiled in 14ms
-[01:23:18.138] Server  LOG      ✓ Compiled in 16ms
-[01:23:35.496] Server  LOG      ✓ Compiled in 15ms
-[01:23:40.173] Server  LOG      ✓ Compiled in 18ms
-[01:23:44.676] Server  LOG      ✓ Compiled in 39ms
-[01:23:44.728] Browser ERROR   Received `%s` for a non-boolean attribute `%s`.
-
-If you want to write it to the DOM, pass a string instead: %s="%s" or %s={value.toString()}. true size-30 size-30 true size-30
-[01:23:51.244] Server  LOG      ✓ Compiled in 13ms
-[01:23:57.105] Server  LOG      ✓ Compiled in 15ms
-[01:23:58.779] Server  LOG      ✓ Compiled in 14ms
-[01:24:10.466] Server  LOG      ✓ Compiled in 14ms
-[01:24:19.876] Server  LOG      ✓ Compiled in 18ms
-[01:24:26.062] Server  LOG      ✓ Compiled in 16ms
-[01:24:28.958] Server  LOG      ✓ Compiled in 16ms
-[01:24:49.061] Server  LOG      ✓ Compiled in 16ms
-[01:24:57.062] Server  LOG      ✓ Compiled in 17ms
-[01:25:23.076] Server  LOG      ✓ Compiled in 16ms
-[01:25:25.691] Server  LOG      ✓ Compiled in 16ms
-[01:25:41.355] Server  LOG      ✓ Compiled in 48ms
-[01:25:43.672] Server  LOG      ✓ Compiled in 17ms
-[01:25:53.827] Server  LOG      ✓ Compiled in 12ms
-[01:26:16.420] Server  LOG      ✓ Compiled in 17ms
-[01:26:21.423] Server  LOG      ✓ Compiled in 15ms
-[01:26:27.519] Server  LOG      ✓ Compiled in 16ms
-[01:26:30.303] Server  LOG      ✓ Compiled in 16ms
-[01:26:32.441] Server  LOG      ✓ Compiled in 16ms
-[01:26:39.741] Server  LOG      ✓ Compiled in 47ms
-[01:26:58.110] Server  LOG      ✓ Compiled in 12ms
-[01:27:06.311] Server  LOG      ✓ Compiled in 13ms
-[01:27:09.247] Server  LOG      ✓ Compiled in 12ms
-[01:27:14.706] Server  LOG      ✓ Compiled in 24ms
-[01:27:19.852] Server  LOG      ✓ Compiled in 21ms
-[01:27:42.878] Server  LOG      ✓ Compiled in 33ms
-[01:31:25.715] Server  LOG      ✓ Compiled in 21ms
-[01:31:41.954] Server  LOG      ✓ Compiled in 17ms
-[01:31:58.954] Server  LOG      ✓ Compiled in 15ms
-[01:32:10.155] Server  LOG      ✓ Compiled in 14ms
-[01:32:34.096] Server  LOG      ✓ Compiled in 31ms
-[01:32:45.170] Server  LOG      ✓ Compiled in 14ms
-[01:32:57.623] Server  LOG      ✓ Compiled in 14ms
-[01:33:23.263] Server  LOG      ✓ Compiled in 18ms
-[01:33:48.334] Server  LOG      ✓ Compiled in 18ms
-[01:34:03.923] Server  LOG      ✓ Compiled in 15ms
-[01:34:17.478] Server  LOG      ✓ Compiled in 15ms
-[01:34:17.583] Browser ERROR   ./src/app/page.tsx:97:9
-Parsing ecmascript source code failed
-   95 |       <div className="size-full bg-linear-to-br bg-[#1a3473] shadow-xl p-6 flex justify-evenly">
-   96 |         <div className="flex justify-evenly items-center"
->  97 |         <PresentationCard
-      |         ^
-   98 |           title="Démarche NID - 3 Pilliers"
-   99 |           icon={<Laptop size={50} />}
-  100 |         >
-
-Expression expected
-
-Import traces:
-  Client Component Browser:
-    ./src/app/page.tsx [Client Component Browser]
-    ./src/app/page.tsx [Server Component]
-
-  Client Component SSR:
-    ./src/app/page.tsx [Client Component SSR]
-    ./src/app/page.tsx [Server Component]
-[01:34:43.468] Server  LOG      ✓ Compiled in 15ms
-[01:34:48.404] Server  LOG      ✓ Compiled in 28ms
-[01:34:57.487] Server  LOG      ✓ Compiled in 15ms
-[01:35:12.127] Server  LOG      ✓ Compiled in 23ms
-[01:36:10.152] Server  LOG      ✓ Compiled in 25ms
-[01:36:23.340] Server  LOG      ✓ Compiled in 27ms
-[01:36:26.057] Server  LOG      ✓ Compiled in 20ms
-[01:36:30.489] Server  LOG      ✓ Compiled in 28ms
-[01:36:46.775] Server  LOG      ✓ Compiled in 17ms
-[01:36:56.326] Server  LOG      ✓ Compiled in 25ms
-[01:37:19.268] Server  LOG      ✓ Compiled in 14ms
-[01:37:38.367] Server  LOG      ✓ Compiled in 11ms
-[01:37:52.581] Server  LOG      ✓ Compiled in 11ms
-[01:38:14.546] Server  LOG      ✓ Compiled in 31ms
-[01:38:17.772] Server  LOG      ✓ Compiled in 16ms
-[01:38:26.613] Server  LOG      ✓ Compiled in 15ms
-[01:38:44.453] Server  LOG      ✓ Compiled in 28ms
-[01:38:52.496] Server  LOG      ✓ Compiled in 25ms
-[01:38:59.518] Server  LOG      ✓ Compiled in 22ms
-[01:39:11.285] Server  LOG      ✓ Compiled in 26ms
-[01:39:13.227] Server  LOG      ✓ Compiled in 25ms
-[01:39:19.840] Server  LOG      ✓ Compiled in 12ms
-[01:39:21.891] Server  LOG      ✓ Compiled in 12ms
-[01:40:06.539] Server  LOG      ✓ Compiled in 31ms
-[01:40:52.385] Server  LOG      ✓ Compiled in 15ms
-[01:40:55.759] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
+[01:09:39.634] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:09:45.426] Browser LOG     Current sequence: ["ArrowUp"]
+[01:09:45.600] Browser LOG     Current sequence: ["ArrowUp","ArrowUp"]
+[01:09:45.955] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown"]
+[01:09:46.109] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown"]
+[01:09:47.052] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft"]
+[01:09:47.317] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight"]
+[01:09:47.884] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft"]
+[01:09:48.090] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight"]
+[01:09:48.574] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight","b"]
+[01:09:48.743] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/snake.png" "received" null
+[01:09:48.783] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight","b","a"]
+[01:09:48.783] Browser LOG     KONAMI CODE ACTIVATED!
+[01:11:06.963] Browser LOG     Current sequence: ["ArrowUp"]
+[01:11:07.145] Browser LOG     Current sequence: ["ArrowUp","ArrowUp"]
+[01:11:08.043] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown"]
+[01:11:08.682] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowUp"]
+[01:11:08.871] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowUp","ArrowUp"]
+[01:11:09.176] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowUp","ArrowUp","ArrowDown"]
+[01:11:09.360] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowUp","ArrowUp","ArrowDown","ArrowDown"]
+[01:11:09.765] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft"]
+[01:11:10.044] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight"]
+[01:11:10.303] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft"]
+[01:11:10.505] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight"]
+[01:11:10.891] Browser LOG     Current sequence: ["ArrowUp","ArrowDown","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight","b"]
+[01:11:11.116] Browser LOG     Current sequence: ["ArrowDown","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight","b","a"]
+[01:11:11.116] Browser LOG     KONAMI CODE ACTIVATED!
+[01:11:25.602] Browser LOG     Current sequence: ["Control"]
+[01:11:27.339] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:11:27.481] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:40:55.761] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
+[01:11:27.481] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:40:55.926] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:40:56.055] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
+[01:11:27.481] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:11:34.808] Browser LOG     Current sequence: ["ArrowUp"]
+[01:11:34.957] Browser LOG     Current sequence: ["ArrowUp","ArrowUp"]
+[01:11:35.219] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown"]
+[01:11:35.388] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown"]
+[01:11:35.756] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft"]
+[01:11:35.955] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight"]
+[01:11:36.185] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft"]
+[01:11:36.349] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight"]
+[01:11:37.332] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight","b"]
+[01:11:37.601] Browser LOG     Current sequence: ["ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight","b","a"]
+[01:11:37.601] Browser LOG     KONAMI CODE ACTIVATED!
+[01:13:53.465] Server  LOG      ✓ Compiled in 42ms
+[01:13:58.999] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:40:56.055] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
+[01:13:59.001] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
 Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:40:56.055] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:40:56.055] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+[01:13:59.270] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:13:59.410] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
+Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
+[01:13:59.410] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
+Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
+[01:13:59.410] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:13:59.410] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:41:02.972] Server  LOG      ✓ Compiled in 11ms
-[01:41:14.715] Server  LOG      ✓ Compiled in 11ms
-[01:41:18.295] Server  LOG      ✓ Compiled in 14ms
-[01:41:25.049] Server  LOG      ✓ Compiled in 17ms
-[01:41:27.382] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:41:27.382] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:41:27.555] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:41:27.675] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:41:27.675] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:41:27.675] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:41:27.675] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:41:33.556] Server  LOG      ✓ Compiled in 15ms
-[01:41:37.532] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:41:37.533] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:41:37.693] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:41:37.821] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:41:37.822] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:41:37.822] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:41:37.822] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:41:40.204] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:41:40.335] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:41:40.335] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:41:40.335] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:41:40.335] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:42:35.860] Server  LOG      ✓ Compiled in 21ms
-[01:42:47.032] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:42:47.032] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:42:47.156] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:42:47.156] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:42:47.156] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:42:47.257] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:43:57.079] Server  LOG      ✓ Compiled in 18ms
-[01:44:12.930] Server  LOG      ✓ Compiled in 14ms
-[01:44:17.705] Server  LOG      ✓ Compiled in 14ms
-[01:44:17.785] Browser ERROR   %s received a final argument during this render, but not during the previous render. Even though the final argument is optional, its type cannot change between renders. useEffect
-[01:44:33.962] Server  LOG      ✓ Compiled in 16ms
-[01:44:50.010] Server  LOG      ✓ Compiled in 12ms
-[01:44:53.967] Server  LOG      ✓ Compiled in 18ms
-[01:44:54.018] Browser ERROR   The final argument passed to %s changed size between renders. The order and size of this array must remain constant.
-
-Previous: %s
-Incoming: %s useEffect [] [false]
-[01:45:05.281] Server  LOG      ✓ Compiled in 16ms
-[01:46:10.562] Server  LOG      ✓ Compiled in 27ms
-[01:46:24.752] Server  LOG      ✓ Compiled in 19ms
-[01:46:25.862] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:46:25.863] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:46:25.987] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:46:25.987] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:46:25.987] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:46:26.100] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:46:26.100] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:46:37.042] Server  LOG      ✓ Compiled in 13ms
-[01:46:38.227] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:46:38.227] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:46:38.340] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:46:38.340] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:46:38.340] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:46:38.340] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:46:38.447] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:46:39.470] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:46:39.470] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:46:39.470] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:46:39.470] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:46:39.579] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:46:40.003] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:46:40.003] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:46:40.003] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:46:40.003] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:46:40.018] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:46:40.154] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:46:40.154] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:46:40.154] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:46:40.154] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:46:40.184] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:46:40.288] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:46:40.288] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:46:40.288] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:46:40.288] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:46:40.398] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:46:43.917] Server  LOG      ✓ Compiled in 13ms
-[01:46:54.135] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:46:54.135] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:46:54.281] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:46:54.413] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:46:54.413] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:46:54.413] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:46:54.413] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:47:05.338] Server  LOG      ✓ Compiled in 16ms
-[01:47:06.488] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:47:06.488] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:47:06.596] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:47:06.596] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:47:06.596] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:47:06.596] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:47:06.732] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:47:07.501] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:47:07.501] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:47:07.501] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:47:07.669] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:47:07.669] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:47:07.844] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:47:07.844] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:47:07.844] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:47:07.923] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:47:07.923] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:47:08.034] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:47:08.034] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:47:08.034] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:47:08.100] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:47:08.100] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:47:08.194] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:47:08.194] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:47:08.194] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:47:08.285] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:47:08.285] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:47:08.382] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:47:08.382] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:47:08.382] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:47:08.455] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:47:08.455] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:47:08.548] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:47:08.701] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:47:08.701] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:47:08.701] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:47:08.701] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:47:08.836] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:47:08.836] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:47:08.836] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:47:08.836] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:47:08.969] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:47:27.746] Server  LOG      ✓ Compiled in 19ms
-[01:47:33.559] Server  LOG      ✓ Compiled in 25ms
-[01:47:35.023] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:47:35.024] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:47:35.138] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:47:35.138] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:47:35.138] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:47:35.243] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:47:38.285] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:47:49.393] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:47:49.393] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:47:49.393] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:47:49.495] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:47:52.550] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:48:05.055] Server  LOG      ✓ Compiled in 15ms
-[01:48:06.082] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:48:06.083] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:48:06.207] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:48:06.207] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:48:06.313] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:48:06.313] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:48:09.366] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:48:33.312] Server  LOG      ✓ Compiled in 22ms
-[01:48:33.399] Browser ERROR   uncaughtError: ReferenceError: isMounted is not defined
-[01:48:37.439] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
-[01:48:37.496] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:48:37.496] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:48:37.501] Server  LOG      ✓ Compiled in 49ms
-[01:48:37.597] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:48:37.597] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:48:37.597] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:48:37.778] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:48:49.030] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:48:49.150] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:48:49.150] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:48:49.150] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:48:49.150] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:48:54.020] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:48:54.020] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:48:54.020] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:48:54.121] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
-[01:49:00.266] Server  LOG      ✓ Compiled in 13ms
-[01:49:09.351] Server  LOG      ✓ Compiled in 16ms
-[01:49:14.581] Server  LOG      ✓ Compiled in 17ms
-[01:49:18.097] Server  LOG      ✓ Compiled in 14ms
-[01:49:21.029] Server  WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:49:21.029] Server  WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:49:21.144] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
-[01:49:21.144] Browser WARN    Image with src "/background-picture.jpg" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:49:21.144] Browser WARN    Image with src "/nird-logo-transparent.png" has legacy prop "objectFit". Did you forget to run the codemod?
-Read more: https://nextjs.org/docs/messages/next-image-upgrade-to-13
-[01:49:21.253] Browser WARN    Image with src "/background-picture.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
-Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
-[01:49:21.253] Browser WARN    Image with src "/nird-logo-transparent.png" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[01:14:09.410] Browser LOG     Current sequence: ["Control"]
+[01:14:09.522] Browser LOG     Current sequence: ["Control","Control"]
+[01:14:31.304] Browser LOG     Current sequence: ["Control","Control","ArrowUp"]
+[01:14:31.447] Browser LOG     Current sequence: ["Control","Control","ArrowUp","ArrowUp"]
+[01:14:31.702] Browser LOG     Current sequence: ["Control","Control","ArrowUp","ArrowUp","ArrowDown"]
+[01:14:31.840] Browser LOG     Current sequence: ["Control","Control","ArrowUp","ArrowUp","ArrowDown","ArrowDown"]
+[01:14:32.191] Browser LOG     Current sequence: ["Control","Control","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft"]
+[01:14:32.415] Browser LOG     Current sequence: ["Control","Control","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight"]
+[01:14:32.879] Browser LOG     Current sequence: ["Control","Control","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft"]
+[01:14:33.203] Browser LOG     Current sequence: ["Control","Control","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight"]
+[01:14:33.605] Browser LOG     Current sequence: ["Control","Control","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight","b"]
+[01:14:33.917] Browser LOG     Current sequence: ["Control","ArrowUp","ArrowUp","ArrowDown","ArrowDown","ArrowLeft","ArrowRight","ArrowLeft","ArrowRight","b","a"]
+[01:14:33.917] Browser LOG     KONAMI CODE ACTIVATED!
+[01:14:37.149] Browser LOG     Current sequence: ["ArrowRight"]
+[01:15:30.456] Server  LOG      ✓ Compiled in 47ms

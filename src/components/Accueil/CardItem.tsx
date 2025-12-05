@@ -7,7 +7,7 @@ interface Props {
 
 const CardItem = ({ ...props }: Props) => {
   return (
-    <div className="flex gap-3">
+    <div className="kill-zone flex gap-3">
       {props.icon}
       {props.children}
     </div>
