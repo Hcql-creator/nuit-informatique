@@ -114,7 +114,7 @@ export default function Home() {
       </div>
       {/* Cartes */}
       <div className="w-full h-2/5 bg-linear-to-br bg-[#1a3473] shadow-xl p-6 flex flex-col gap-10 items-center">
-        <div className="flex justify-evenly gap-20">
+        <div className="flex flex-col lg:flex-row justify-evenly gap-20">
           <PresentationCard
             title="Démarche NID - 3 Pilliers"
             icon={<Laptop size={50} />}
