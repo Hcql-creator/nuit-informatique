@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "CHANGE WEBSITE NAME",
+  title: "NUIT Informatique - Les 8 Bits",
   description: "CHANGE WEBSITE DESCRIPTION",
 };
 
