@@ -51,8 +51,8 @@ const FullInputSection = ({ ...props }: Props) => {
             <SpecCardItem>Fainéant</SpecCardItem>
           </SpecCard>
           <SpecCard title="💬 Exemples">
-            <SpecCardItem>A venir</SpecCardItem>
-            <SpecCardItem>A venir</SpecCardItem>
+            <SpecCardItem>Quelle est la racine carrée de 9 ?</SpecCardItem>
+            <SpecCardItem>J'aime les pâtes</SpecCardItem>
           </SpecCard>
         </section>
       )}
