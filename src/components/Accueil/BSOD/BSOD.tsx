@@ -25,7 +25,7 @@ const BSODScreen = ({ ...props }: Props) => {
   }, []);
 
   return (
-    <div className="absolute z-20 min-h-screen w-screen bg-[#0178d4] text-white p-10 font-sans">
+    <div className="absolute z-20 min-h-[150vh] w-screen bg-[#0178d4] text-white p-10 font-sans">
       <div className="max-w-3xl mx-auto">
         {/* Smiley */}
         <div className="text-9xl mb-8">:(</div>
@@ -44,6 +44,9 @@ const BSODScreen = ({ ...props }: Props) => {
           <div className="fixed inset-0 bg-black/70 flex items-center justify-center z-50">
             <div className="bg-white p-10 rounded-lg max-w-md text-center shadow-2xl">
               <div className="text-5xl mb-5">🛡️</div>
+              <p className="text-gray-800 text-base mb-8">
+                Votre Ordinateur fait des siennes ?
+              </p>
               <h2 className="text-[#0178d4] text-2xl mb-5 font-bold">
                 Une alternative existe
               </h2>

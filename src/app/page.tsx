@@ -17,6 +17,7 @@ import CardItem from "../components/Accueil/CardItem";
 import { useRouter } from "next/navigation";
 import BSODScreen from "../components/Accueil/BSOD/BSOD";
 import { useEffect, useState } from "react";
+import ChatBrutiIcon from "../components/ChatBrutiIcon";
 
 const FIRST_IMAGE = {
   imageUrl: "/linux-desktop.png",
@@ -30,6 +31,7 @@ export default function Home() {
   const [showError, setShowError] = useState(true);
   return (
     <div className="relative h-[140dvh] flex flex-col justify-start items-center">
+      <ChatBrutiIcon />
       {showError && <BSODScreen onClick={() => setShowError(false)} />}
       <div className="relative size-full flex justify-start flex-col">
         {/* BG Picture */}
