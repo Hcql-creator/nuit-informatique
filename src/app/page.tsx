@@ -1,21 +1,19 @@
-import Card from "../components/Cards/Card"
+
+import SnakeGameComponent from "../components/Snake/Snake";
+
+import { Menu } from 'lucide-react'
+import IconButton from '../components/Buttons/IconButton'
 
 export default function Home() {
   return <>
-  <Card
-  type="iconCard"
-  bgColor="bg-slate-800"
-  dimension={{ minheigh: "min-h-40", minwidth: "min-w-64" }}
-  icon={{ icon: "🚀", iconPos: "left" }}
-  txt={{
-    title: "Card",
-    children: "Some description here",
-    textColor: "text-white",
-    titleColor: "text-blue-400",
-    textsize: "text-xl",
-    titlesize: "text-xxl",
-  }}
->
-</Card>
+  
+  <div>
+  <div className="flex justify-center align-center w-full h-full">
+    <div className="flex kill-zone justify-center Item-center w-[50px] h-[50px] bg-red-100 border-2">qsdq</div>
+  </div>
+<SnakeGameComponent>
+</SnakeGameComponent>
+</div>
+<button className="kill-zone">fshqjoufbyn</button>
 </>;
 }
